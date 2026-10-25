@@ -1,0 +1,201 @@
+﻿sentence_id,speaker,domain,english,standard,owo,review,n_diffs,types
+E01,S00,Education,The teacher is teaching the students.,Olùkọ́ náà ń kọ́ àwọn akẹ́ẹ̀kọ́.,Olùkọ́ nẹ́ẹ̀ nkọ́ ọ̀ghọn akẹ́ẹ̀kọ́.,Checked,2,Phonological
+E02,S00,Education,I am a teacher.,Mo jẹ́ olùkọ́.,Mòó jẹ́ olùkọ́.,Checked,1,Phonological
+E03,S00,Education,The teacher is coming.,Olùkọ́ ń bọ̀.,Olùkọ́ nẹ́ẹ̀ wa.,Checked,2,Lexical
+E04,S00,Education,I am a student of my School.,Mo jẹ́ ọmọ ilé-ẹ̀kọ́ mi.,Mòó jẹ́ ọma ilé-ẹ̀kọ́ mi.,Checked,2,Phonological
+E05,S00,Education,"Good morning, students! Good morning, teacher.","Ẹ káàárọ̀, ẹ̀yin ọmọ ilé-ẹ̀kọ́! Ẹ káàárọ̀, olùkọ́.","Ẹ̀ghẹn káàárọ̀ o, ọma ilé-ẹ̀kọ́! Ẹ̀ghẹn káàárọ̀ o, olùkọ́.",Checked,3,Phonological
+E06,S00,Education,The students are listening.,Àwọn ọmọ ilé-ẹ̀kọ́ ń gbọ́.,Ọ̀ghọn ọma ilé-ìwé nẹ́ẹ̀ tẹ́tín salẹ̀.,Checked,5,Lexical;Phonological
+E07,S00,Education,This class is dirty! Pick up the dirt on the floor.,Yàrá-àkékòó yìí dọ̀tí! Kó ìdọ̀tí tó wà lórí ilẹ̀.,Yàrá-àkékòó yìí dọ̀tín! Kó èkù yé ńgórí alẹ̀ nẹ́ẹ̀.,Checked,6,Lexical;Phonological
+E08,S00,Education,A teacher is teaching the students in that class.,Olùkọ́ kan ń kọ́ àwọn ọmọ ilé-ẹ̀kọ́ nínú kíláàsì yẹn.,Tíṣà kàn kó ọ̀ghọn ọma akẹ́ẹ̀kọ́ ínọ́ kíláàsì nẹ́ẹ̀.,,6,Lexical;Loanword;Phonological;Tonal
+E09,S00,Education,This is my class.,Èyí ni kíláàsì mi.,Kíláàsì mi erè yìí.,,1,Phonological
+E10,S00,Education,I am going to school.,Mo ń lọ sí ilé-ẹ̀kọ́.,Mìí re ṣùkúù.,Checked,1,Loanword
+E11,S00,Education,Won't you go to school today?,Ṣé o ò ní lọ sí ilé-ẹ̀kọ́ lónìí?,Ṣé wé è ní yú ṣùkúù òní dẹ?,Checked,3,Lexical;Loanword
+E12,S00,Education,You will be punished if you are late to school.,Wọ́n máa fìyà jẹ ọ́ tí o bá pẹ́ sí ilé-ẹ̀kọ́.,Ọ̀ghọn á mú yà jẹ́ kúe bá pẹ́ rè ṣùkúù.,Checked,5,Lexical;Loanword;Phonological;Tonal
+E13,S00,Education,Have you started your exams?,Ṣé o ti bẹ̀rẹ̀ ìdánwò rẹ?,Ṣé wo ti bẹ̀rẹ̀ ùdánwò ẹ?,Checked,2,Lexical;Phonological
+E14,S00,Education,I scored 100 in my exam.,Mo gba ọgọ́rùn-ún nínú ìdánwò mi.,Mòó gbà ọgọ́rùn-ún ínọ́ ùdánwò mi.,Checked,4,Phonological;Tonal
+E15,S00,Education,I am reading for my examination.,Mo ń kàwé fún ìdánwò mi.,Mì kàwé ghún ùdánwò mi.,Checked,3,Phonological;Tonal
+E16,S00,Education,Have you done your homework?,Ṣé o ti ṣe iṣẹ́ àmúrelé rẹ?,Ṣé wo ti ṣuṣé yọ̀ọ́ gbé ghẹn láti ṣùkúù?,Checked,2,Lexical;Phonological
+E17,S00,Education,Go and do your homework!,Lọ ṣe iṣẹ́ ilé rẹ!,Kàá ṣuṣẹ́ ẹ!,Checked,2,Lexical;Phonological
+E18,S00,Education,This assignment is difficult!,Iṣẹ́ àyànfún yìí ṣòro!,Àsáínmẹ́nt yí le ò!,Checked,1,Loanword
+E19,S00,Education,I have read all my books.,Mo ti ka gbogbo àwọn ìwé mi.,Mòó ti kà gede ùwé mi.,Checked,4,Lexical;Phonological;Tonal
+E20,S00,Education,You are not reading.,O ò kàwé.,Wé è kàwé.,Checked,2,Lexical
+E21,S00,Education,Stand up and read the book to us.,Dìde kí o sì ka ìwé náà fún wa.,Kòró dúe kàwé nẹ́ẹ̀ ghún wa.,Checked,4,Lexical;Phonological
+E22,S00,Education,You write well.,O má ń kọ̀wé dáadáa.,Wè é kọ̀wé lúkà.,Checked,2,Lexical
+E23,S00,Education,I have not written all my notes.,Mi ò tíì kọ gbogbo àkọsílẹ̀ mi.,Mìí tì kọ gede ùwé mi.,Checked,3,Lexical;Phonological
+E24,S00,Education,I can count from one to ten.,Mo lè ka láti ọ̀kan sí mẹ́wàá.,Mòó yá kà láti ẹyọ̀kàn sí mẹ́wàá.,Checked,3,Phonological;Tonal
+E25,S00,Education,One plus one is two.,Ọ̀kan kún ọ̀kan jẹ́ méjì.,Ẹyọ̀kàn ati ẹyọ̀kàn jẹ́ mẹ́jì.,Checked,3,Lexical;Tonal
+E26,S00,Education,Two plus two is four.,Méjì kún méjì jẹ́ mẹ́rin.,Méjì àti Méjì jẹ́ mẹ́ẹ̀rẹn.,Checked,1,Phonological
+E27,S00,Education,Do I need to learn it?,Ṣé mo nílò láti kọ́ ọ?,Ṣé mòó nílò láti kọ́ọ̀wẹ́?,Checked,1,Phonological
+E28,S00,Education,You need to learn how to read and write.,O nílò láti kọ́ bí a ṣe ń kàwé àti kọ̀wé.,Ǹgòó nílò láti kọ́ bọ́ ti kọ àti bọ́ tí kà.,Checked,1,Lexical
+E29,S00,Education,What did you learn in school today?,Kí lo kọ́ ní ilé-ẹ̀kọ́ lónìí?,Kúò kọ́ í ṣùkúù ẹ ọní?,Checked,2,Loanword;Phonological
+E30,S00,Education,The students are writing from the board.,Àwọn ọmọ ilé-ẹ̀kọ́ ń kọ̀wé láti inú pátákó.,Ọ̀ghọn ọma ṣùkúù nẹ́ẹ̀ kọ̀wé sálẹ̀ látorí pátákó èkọ̀wé.,,3,Loanword;Phonological
+E31,S00,Education,That man teaches us English.,Ọkùnrin yẹn ń kọ́ wa ni Gẹ̀ẹ́sì.,Ọkọ̀nrẹn nẹ́ẹ̀ kọ́ wa èdè Òyìnbó.,Checked,3,Lexical;Phonological
+E32,S00,Education,She loves teaching the children every day.,Ó fẹ́ràn kíkọ́ àwọn ọmọdé náà lójojúmọ́.,Ó fẹ́ràn àti ka kọ́ ọ̀ghọn ọmadé ojojúmá.,Checked,3,Phonological
+E33,S00,Education,Do not make noise while I teach you.,Ẹ máà pariwo nígbà tí mo bá ń kọ́ yín.,Èghẹn máà ka pariwo kì mbẹ́ ti kọ́ ghẹn.,Checked,4,Lexical;Phonological;Tonal
+E34,S00,Education,Don't you listen while you're being taught?,Ṣé ẹ̀yin ò kí ń gbọ́rọn nígbà tí wọ́n bá ń kọ́ yín?,Ṣẹ́ ẹ̀ghẹ́n gbọ́ kọ̀ bẹ́ kọ́ ghẹn dẹ̀,Checked,4,Lexical;Phonological
+E35,S00,Education,Who is absent from school today?,Ta ni kò sí ní ilé-ẹ̀kọ́ lónìí?,Sé máà wá sí ṣùkúù òní?,Checked,1,Loanword
+E36,S00,Education,"If I call your name, say, ""I am present, ma'am.""","Tí mo bá pe orúkọ rẹ, sọ pé, ""Mo wà níbí, Màmá.""","Kì mbá ti pòrúkọ ẹ, wé fọ̀ fi, ""Mì ghún bé, yèmi.""",Checked,8,Lexical;Phonological;Tonal
+E37,S00,Education,I want to take attendance now.,Mo fẹ́ gba àkọsílẹ̀ àwọn tó wà ní yàrá-àkékòó báyìí.,Mòó fẹ́ kọrúkọ sálè bẹ́ẹ̀nyìí.,Checked,2,Phonological
+E38,S00,Education,My book is torn.,Ìwé mi ti ya.,Ìwé mi ti ya.,Checked,0,
+E39,S00,Education,"If you haven't bought your books, stand up.","Tí o ò bá tíì ra àwọn ìwé rẹ, dìde.","Kúe máà tì rà wé ẹ, kòró dúró.",Checked,4,Lexical;Tonal
+E40,S00,Education,"I bought the book for 5,000 naira.",Mo ra ìwé náà fún ẹgbẹ̀rún márùn-ún náírà.,Mòó ràwé nẹ́ẹ̀ ẹgbẹ̀rún mẹ́ẹ̀rún náírà.,Checked,3,Lexical;Phonological
+E41,S00,Education,I am going to be a doctor in the future.,Mo máa di dókítà lọ́jọ́ iwájú.,Mòó fẹ́ dà dókítà ọjọ́ wájú.,Checked,1,Phonological
+E42,S00,Education,I study Computer Science (Ìmọ̀ Ẹ̀rọ) at the university.,Mo ń kẹ́kọ̀ọ́ Ìmọ̀ Ẹ̀rọ ní yunifásítì.,Mo kọ́ nípà Ùma Ẹ̀rọ núlí-ùwé gíga.,Checked,2,Lexical;Phonological
+E43,S00,Education,The university is a big place.,Yunifásítì jẹ́ ibi ńlá.,Ulí-èkọ́ gíga jẹ́ ibi yòó lála.,Checked,2,Lexical
+E44,S00,Education,Knowledge is power.,Ìmọ̀ ni agbára.,Ùmà jẹ́ agbára.,Checked,1,Phonological
+E45,S00,Education,Education is the key.,Ẹ̀kọ́ ni kọ́kọ́rọ́.,Ẹ̀kọ́ ùn kọ́kọ́rọ́ nẹ́ẹ̀,Checked,1,Lexical
+E46,S00,Education,I am taking the school bus to school.,Mo ń gun ọkọ̀ ilé-ìwé lọ sí ilé-ìwé.,Mì wọ inọ́ bọ́ọ̀sì ṣùkúù wá rè ṣùkúù.,Checked,3,Lexical;Loanword
+E47,S00,Education,The students are wearing neat uniforms.,Àwọn ọmọ ilé-ẹ̀kọ́ wọ aṣọ ilé-ẹ̀kọ́ tó mọ́.,Ọ̀ghọn ọma ṣùkúù nẹ́ẹ̀ wọ̀ aṣọ ṣùkúù yòó má.,Checked,6,Lexical;Loanword;Phonological;Tonal
+E48,S00,Education,Education is very beneficial.,Ẹ̀kọ́ ní àǹfààní púpọ̀.,Ẹ̀kọ́ láǹfààní yọ̀ọ́ yéye.,Checked,1,Lexical
+E49,S00,Education,I am a graduate of that university.,Mo jẹ́ ọmọ tí ó kẹ́kọ̀ọ́ jáde ní yunifásítì yẹn.,Mòó jẹ́ ọma akẹ́ẹ̀kọ́ jáde ulí-ẹ̀kọ́ gíga nẹ́ẹ̀.,Checked,4,Lexical;Phonological
+E50,S00,Education,I am a graduate with first-class,Mo jẹ́ ọmọ tí ó kẹ́kọ̀ọ́ jáde pẹ̀lú ìyọ̀ǹda ipele àkọ́kọ́.,Mòó jáde ulí-ẹ̀kọ́ gíga nẹ́ẹ̀ pẹ̀lú ipò kínẹ́.,Checked,2,Phonological
+F01,S01,Family,"Good evening, how is your family?","Ẹ kú ìrọ̀lẹ́, báwo ni ẹbí yín?","Èghẹn kú ùọ̀lẹ́ oo, ọ̀ghọn arálé gede nkọ́ oo?",Checked,3,Lexical;Phonological
+F01,S02,Family,"Good evening, how is your family?","Ẹ kú ìrọ̀lẹ́, báwo ni ẹbí yín?","Èghẹn kú ùọ̀lẹ́ oo, ọ̀ghọn arálé ńkọ́?",Checked,3,Lexical;Phonological
+F01,S03,Family,"Good evening, how is your family?","Ẹ kú ìrọ̀lẹ́, báwo ni ẹbí yín?","Ẹ̀ghẹn kúrọ̀lẹ́ oo, gede arálé gede oo. Urálé gede ńkọ́?",Checked,2,Lexical;Phonological
+F02,S01,Family,My father is at home.,Bàbá mi wà nílé.,Ibà mi ghún nalí.,Checked,2,Lexical;Phonological
+F02,S02,Family,My father is at home.,Bàbá mi wà nílé.,Ibà mi ghún lí.,Checked,2,Lexical;Phonological
+F02,S03,Family,My father is at home.,Bàbá mi wà nílé.,Ibà mi ghún lí.,Checked,2,Lexical;Phonological
+F03,S01,Family,My mother is cooking.,Ìyá mi ń se oúnjẹ.,Ìyè mí jù-ùn ní ọ́ghọ́.,Checked,2,Lexical;Tonal
+F03,S02,Family,My mother is cooking.,Ìyá mi ń se oúnjẹ.,Yèmí tṣun-ùn tṣẹ.,Checked,1,Lexical
+F03,S03,Family,My mother is cooking.,Ìyá mi ń se oúnjẹ.,Imàmí tṣùn-ùn jẹ.,Checked,2,Lexical
+F04,S01,Family,The food is ready.,Oúnjẹ ti ṣetán.,Oúnjẹ nẹ́ẹ̀ ti tṣetán oo.,Checked,1,Phonological
+F04,S02,Family,The food is ready.,Oúnjẹ ti ṣetán.,Òùnjẹ́ ti kú.,Checked,2,Lexical;Tonal
+F04,S03,Family,The food is ready.,Oúnjẹ ti ṣetán.,Òùnjẹ́ ti tṣetán.,Checked,2,Phonological;Tonal
+F05,S01,Family,Come and eat.,Wá jẹun.,Yá jẹun.,Checked,1,Lexical
+F05,S02,Family,Come and eat.,Wá jẹun.,Kawa yá jẹun.,Checked,1,Lexical
+F05,S03,Family,Come and eat.,Wá jẹun.,Yá jẹun.,Checked,1,Lexical
+F06,S01,Family,I have two brothers and one sister.,Mo ní arákùnrin méjì àti arábìnrin kan.,"Mòó nẹ́ ẹ̀gbánkọ̀nrẹn méjì, mòó nẹ́ óbìnrẹn ọkàn.",Checked,5,Phonological
+F06,S02,Family,I have two brothers and one sister.,Mo ní arákùnrin méjì àti arábìnrin kan.,Mòó nẹ́ ẹ̀gbánkọ̀nrẹn méjì àti obìnrẹn ọ̀kàn.,Checked,4,Phonological
+F06,S03,Family,I have two brothers and one sister.,Mo ní arákùnrin méjì àti arábìnrin kan.,"Mòó nẹ́ ẹ̀gbánkọ̀nrẹn méjì, obìnrẹn ọ̀kàn.",Checked,5,Phonological
+F07,S01,Family,Where is your house?,Níbo ni ilé rẹ wà?,Kẹ̀ẹ́ bu ilé rẹ̀ ghà?,Checked,4,Lexical;Phonological;Tonal
+F07,S02,Family,Where is your house?,Níbo ni ilé rẹ wà?,Kẹ̀ẹ́ bu ulí ẹẹ̀ ghá?,Checked,3,Lexical;Phonological
+F07,S03,Family,Where is your house?,Níbo ni ilé rẹ wà?,Kẹ̀ẹ́ bulé ghẹn ghá?,Checked,2,Lexical;Phonological
+F08,S01,Family,Open the door.,Ṣí ilẹ̀kùn.,Bámi tṣí ìlẹ̀kùn.,Checked,3,Lexical;Phonological;Tonal
+F08,S02,Family,Open the door.,Ṣí ilẹ̀kùn.,Tṣí lẹ̀kùn.,Checked,1,Phonological
+F08,S03,Family,Open the door.,Ṣí ilẹ̀kùn.,Tṣí lẹ̀kùn.,Checked,1,Phonological
+F09,S01,Family,The children are playing outside.,Àwọn ọmọdé ń ṣeré lóde.,Ọ̀ghọn ọmadé néè tṣeré òde.,Checked,3,Phonological
+F09,S02,Family,The children are playing outside.,Àwọn ọmọdé ń ṣeré lóde.,Ọ̀ghọn ọmadé nẹ́ẹ̀ tṣuré ójú òde.,Checked,3,Phonological
+F09,S03,Family,The children are playing outside.,Àwọn ọmọdé ń ṣeré lóde.,Ọ̀ghọn ọmadé tṣeré òde.,Checked,3,Phonological
+F10,S01,Family,Thank you very much.,Ẹ ṣeun púpọ̀.,Wo tṣé oo.,,2,Lexical;Phonological
+F10,S02,Family,Thank you very much.,Ẹ ṣeun púpọ̀.,Wo tṣé gan-an.,Checked,1,Phonological
+F10,S03,Family,Thank you very much.,Ẹ ṣeun púpọ̀.,Wo tṣé oo.,Checked,2,Lexical;Phonological
+F11,S01,Family,My grandmother lives in the village.,Ìyá àgbà mi ń gbé ní abúlé.,Iyè mi agbà gbé nọ́ aghéré íyoko.,Checked,3,Lexical;Phonological;Tonal
+F12,S01,Family,Please sweep the room.,Jọ̀ọ́ gbá yàrá náà.,Bámi gbá ìyàrá nẹ́ẹ̀ sóde.,Checked,2,Lexical
+F13,S01,Family,We are going to church on Sunday.,A ó lọ sí ilé-ìjọsìn ní ọjọ́ Àìkú.,A óò rù lí-ìjọsìn ọjọ́ Àìkú oo.,Checked,1,Lexical
+F14,S01,Family,Fetch water from the well.,Pọn omi láti inú kànga.,Pan omi nẹ́ẹ̀ láti inọ́ kànga.,Checked,2,Phonological
+F15,S01,Family,He is my elder brother.,Ó jẹ́ ẹ̀gbọ́n mi ọkùnrin.,Ó jẹ́ ẹ̀gbán ọkọ̀nrẹn ghún mi.,Checked,2,Phonological
+F16,S01,Family,The baby is sleeping.,Ọmọ-ọwọ́ náà ń sùn.,Ọma ékeé nẹ́ẹ̀ é sùn ówó.,Checked,3,Lexical;Phonological
+F17,S01,Family,We eat together every evening.,À ń jẹun papọ̀ ní gbogbo ìrọ̀lẹ́.,À jọ jẹún pọ̀ọ́ ké bá dìrọ̀lẹ́ oo.,,2,Lexical;Tonal
+F18,S02,Family,Turn off the light.,Pa iná náà.,Paná yìí.,Checked,0,
+F19,S02,Family,It is raining outside.,Òjò ń rọ̀ lóde.,Èjí rọ̀ jú òde.,Checked,1,Lexical
+F20,S02,Family,My uncle visited us yesterday.,Àbúrò bàbá mi wá bẹ̀ wá wò lánàá.,Àbúro bàmi yá kí wa àná.,Checked,3,Lexical;Tonal
+F21,S02,Family,I am washing clothes.,Mò ń fọ aṣọ.,Mìí fàṣọ.,Checked,1,Lexical
+F22,S02,Family,Where is my phone?,Níbo ni ẹrọ ìbánisọ̀rọ̀ mi wà?,Kẹ̀ẹ́ bi fóònù mi ghá?,Checked,2,Lexical;Phonological
+F23,S02,Family,Greet your parents for me.,Kí àwọn òbí rẹ fún mi.,Bámi kí ìyè àti ìbà ẹ oo.,Checked,1,Lexical
+F24,S02,Family,We are celebrating a festival.,A ń ṣe àjọyọ̀.,Àwá ṣàjọyọ̀.,Checked,0,
+F25,S03,Family,Our house is near the road.,Ilé wa wà nítòsí ọ̀nà.,Ulí wa ó súmé tọ́nà.,Checked,1,Phonological
+F26,S03,Family,"I am tired, I want to rest.","Àárẹ̀ mú mi, mo fẹ́ sinmi.","Ó rè mi, mòó fé sìnghọnọ̀.",Checked,2,Lexical;Phonological
+F27,S03,Family,Bring me a cup of water.,Gbé ife omi kan wá fún mi.,Ja agomi ọ̀kàn ghín mi.,Checked,3,Lexical;Phonological
+F28,S03,Family,My sister is older than me.,Ẹ̀gbọ́n mi obìnrin dàgbà jù mí lọ.,Ẹ̀gbán mi obìnrẹ́n dàgbà jù mí lọ.,Checked,2,Phonological
+F29,S03,Family,Everyone is at home today.,Gbogbo wa wà nílé lónìí.,Gede wa ghún lí òní.,Checked,2,Lexical;Phonological
+F30,S03,Family,"Good night, sleep well.","Ó dàárọ̀, sùn dáadáa.","Ó dọ̀la oo, ká sun re oo.",Checked,1,Tonal
+H01,S01,Health,I am not feeling well.,Ara mi ò yá.,Arà mí ì yá.,Checked,3,Lexical;Tonal
+H01,S02,Health,I am not feeling well.,Ara mi ò yá.,Mí ì ni.,Checked,3,Lexical;Tonal
+H01,S03,Health,I am not feeling well.,Ara mi ò yá.,Arà mí ì yá oo.,Checked,3,Lexical;Tonal
+H02,S01,Health,Where does it hurt?,Níbo ni ó ti ń dùn ẹ́?,Kẹ́ bè ti já?,Checked,2,Lexical
+H02,S02,Health,Where does it hurt?,Níbo ni ó ti ń dùn ẹ́?,Kẹ́ bè já?,Checked,2,Lexical
+H02,S03,Health,Where does it hurt?,Níbo ni ó ti ń dùn ẹ́?,Kẹ̀ be já?,Checked,2,Lexical
+H03,S01,Health,I have a headache.,Orí ń fọ́ mi.,Orí là mi o.,Checked,1,Lexical
+H03,S02,Health,I have a headache.,Orí ń fọ́ mi.,Orí là mi.,Checked,1,Lexical
+H03,S03,Health,I have a headache.,Orí ń fọ́ mi.,Orí mí là mi.,Checked,2,Lexical;Tonal
+H04,S01,Health,I have a fever.,Mo ní ibà.,Mòó níbà.,Checked,1,Phonological
+H04,S02,Health,I have a fever.,Mo ní ibà.,Mòó níbà.,Checked,1,Phonological
+H04,S03,Health,I have a fever.,Mo ní ibà.,Mòó níbà.,Checked,1,Phonological
+H05,S01,Health,Go to the hospital.,Lọ sí ilé-ìwòsàn.,Gbẹ̀ ṣúlí-ìwòsàn.,Checked,2,Lexical;Phonological
+H05,S02,Health,Go to the hospital.,Lọ sí ilé-ìwòsàn.,Gbẹ̀ ṣúlí-ìwòsàn.,Checked,3,Lexical;Phonological
+H05,S03,Health,Go to the hospital.,Lọ sí ilé-ìwòsàn.,Ka rùlí-ìwòsàn.,Checked,1,Lexical
+H06,S01,Health,Use this medicine two times a day.,Lo òògùn yìí lẹ́ẹ̀mejì lójúmọ́.,Lo òògùn yìí kòméjì ojúmá.,Checked,2,Lexical;Phonological
+H06,S02,Health,Use this medicine two times a day.,Lo òògùn yìí lẹ́ẹ̀mejì lójúmọ́.,Lo òògùn yìí kòméjì ojúmá.,Checked,2,Lexical;Phonological
+H06,S03,Health,Use this medicine two times a day.,Lo òògùn yìí lẹ́ẹ̀mejì lójúmọ́.,Lo òògùn yìí kòméjì méjì ojojúmá.,Checked,2,Lexical;Phonological
+H07,S01,Health,Drink plenty of water.,Mu omi púpọ̀.,Mọ omi yìí ó yéye.,Checked,2,Lexical;Phonological
+H07,S02,Health,Drink plenty of water.,Mu omi púpọ̀.,Mọ omi yìí ó yéye.,Checked,2,Lexical;Phonological
+H07,S03,Health,Drink plenty of water.,Mu omi púpọ̀.,Mọ omi yìí ó yéye si.,Checked,2,Lexical;Phonological
+H08,S01,Health,The doctor is coming.,Dókítà náà ń bọ̀.,Idókítà nẹ́ẹ̀ wa oo.,Checked,1,Lexical
+H08,S02,Health,The doctor is coming.,Dókítà náà ń bọ̀.,Dókítà nẹ́ẹ̀ tí wa.,Checked,1,Lexical
+H08,S03,Health,The doctor is coming.,Dókítà náà ń bọ̀.,Idókítà mí wa oo.,Checked,1,Lexical
+H09,S01,Health,My stomach is aching.,Ikùn mi ń dùn mí.,Ukùn mi yìí jà mi.,Checked,2,Lexical;Phonological
+H09,S02,Health,My stomach is aching.,Ikùn mi ń dùn mí.,Inú jà mi.,Checked,2,Lexical;Tonal
+H09,S03,Health,My stomach is aching.,Ikùn mi ń dùn mí.,Inọ́ mí jà mi.,Checked,2,Lexical;Tonal
+H10,S01,Health,I am feeling better now.,Ara mi ti yá báyìí.,Arà mó ti yá bẹ́ẹ̀yìí.,Checked,3,Lexical;Tonal
+H10,S02,Health,I am feeling better now.,Ara mi ti yá báyìí.,Ara mi tí yá ẹ̀ń.,Checked,2,Lexical;Tonal
+H10,S03,Health,I am feeling better now.,Ara mi ti yá báyìí.,Arà mi tí yá díẹ̀ díẹ̀.,Checked,2,Tonal
+H11,S01,Health,Have you eaten today?,Ṣé o ti jẹun lónìí?,Wẹ́ẹ̀ ti jeun òní?,Checked,1,Lexical
+H12,S01,Health,I cannot sleep at night.,Mi ò lè sùn lálẹ́.,Mí ì ya sùn kálẹ́lẹ́ oo.,Checked,3,Lexical;Tonal
+H13,S01,Health,My child is sick.,Ọmọ mi ń ṣàìsàn.,Ọmà mí tṣàìsàn.,Checked,3,Phonological;Tonal
+H14,S01,Health,The nurse gave me an injection.,Nọ́ọ̀sì náà fún mi ní abẹ́rẹ́.,Inọ́ọ̀sì nẹ́ẹ̀ ó fún mi abẹ́rẹ́.,Checked,1,Lexical
+H15,S01,Health,Wash your hands before eating.,Fọ ọwọ́ rẹ kí o tó jẹun.,Tṣàn ọghọ́ rẹ dúe tó jeun oo.,Checked,3,Lexical;Phonological
+H16,S01,Health,I have a cough.,Mo ní ikọ́.,Ukọ́ ghún mi.,Checked,2,Lexical;Phonological
+H17,S01,Health,"Do not be afraid, you will be fine.","Má bẹ̀rù, yóò dára.","Má bẹ̀ù oo, arà ẹ á yá.",Checked,1,Phonological
+H18,S02,Health,When did the pain start?,Ìgbà wo ni ìrora náà bẹ̀rẹ̀?,Kẹ̀ẹ́ rí bé jà yìí ò bẹ̀rẹ́?,Checked,1,Tonal
+H19,S02,Health,The clinic opens at eight o'clock.,Ilé-ìwòsàn náà ṣí ní ago mẹ́jọ.,Ulí-ùwòsan tṣí ago mẹ́ẹ̀jọ.,Checked,2,Phonological
+H20,S02,Health,I need to see a doctor.,Mo nílò láti rí dókítà.,Mòó fé yá rí dọ́kítà.,Checked,1,Phonological
+H21,S02,Health,She is pregnant.,Ó lóyún.,Ó lóyún.,Checked,0,
+H22,S02,Health,Sleep under a mosquito net.,Sùn sábẹ́ àwọ̀n ẹ̀fọn.,Sùn sábẹ́ àghọ̀n ẹ̀fan oo.,Checked,2,Phonological
+H23,S02,Health,Eat good food and rest.,Jẹ oúnjẹ tó dára kí o sì sinmi.,"Joúnjẹ yòó san, dúe sì ghọnọ̀.",Checked,4,Lexical
+H24,S02,Health,My leg is swollen.,Ẹsẹ̀ mi wú.,Ọsè mi ó wú.,Checked,1,Lexical
+H25,S03,Health,Where is the pharmacy?,Níbo ni ilé-oògùn wà?,Kẹ̀ẹ́ bọ tí to oògùn béèyìí?,Checked,1,Lexical
+H26,S03,Health,How much is the medicine?,Èló ni oògùn náà?,Òlú oògùn nẹ́ẹ̀?,Checked,2,Lexical
+H27,S03,Health,I took the medicine this morning.,Mo mu oògùn náà ní òwúrọ̀ yìí.,Mòó loọ̀gùn nẹ́ẹ̀ òwúọ̀ yìí.,Checked,3,Lexical;Phonological
+H28,S03,Health,"Please help me, I am very weak.","Jọ̀ọ́ ràn mí lọ́wọ́, àárẹ̀ mú mi gan-an.","Dáàbọ̀ ràn mọ́wọ́, ó rẹ̀ mi.",Checked,1,Lexical
+H29,S03,Health,The baby is crying.,Ọmọ ọwọ́ náà ń sunkún.,Ọma nẹ́ẹ̀ sọnkún.,,3,Lexical;Phonological
+H30,S03,Health,Come back to the clinic next week.,Padà wá sí ilé-ìwòsàn ní ọ̀sẹ̀ tó ń bọ̀.,Dèyìn ghún lí-ìwòsàn ọ̀sẹ̀n yé wà yìí oo.,Checked,5,Lexical;Phonological
+M01,S01,Market,How much is this?,Èló ni èyí?,Ùló sí yùré?,Checked,3,Lexical
+M01,S02,Market,How much is this?,Èló ni èyí?,Òlú yi yìí?,Checked,1,Lexical
+M01,S03,Market,How much is this?,Èló ni èyí?,Òlú yìí è ré?,Checked,1,Lexical
+M02,S01,Market,It is too expensive.,Ó wọ́n jù.,Ó ghán jù.,Checked,1,Phonological
+M02,S02,Market,It is too expensive.,Ó wọ́n jù.,Ó ti ghán jù.,Checked,1,Phonological
+M02,S03,Market,It is too expensive.,Ó wọ́n jù.,Ó ghán jù.,Checked,1,Phonological
+M03,S01,Market,Reduce the price.,Dín owó rẹ̀ kù.,Bámi dẹ́n oghó nẹ́ẹ̀ kù díẹ̀.,Checked,3,Lexical;Phonological
+M03,S02,Market,Reduce the price.,Dín owó rẹ̀ kù.,Dẹ́n nú ẹ̀ ghín mi.,Checked,2,Lexical;Phonological
+M03,S03,Market,Reduce the price.,Dín owó rẹ̀ kù.,Dẹ́n nú ẹ̀ ghín mi.,Checked,2,Lexical;Phonological
+M04,S01,Market,I want to buy rice.,Mo fẹ́ ra ìrẹsì.,Mo fẹ́ ìrẹsì oo.,Checked,0,
+M04,S02,Market,I want to buy rice.,Mo fẹ́ ra ìrẹsì.,Mè á rì ráìsì.,Checked,3,Lexical;Loanword;Phonological
+M04,S03,Market,I want to buy rice.,Mo fẹ́ ra ìrẹsì.,Mo fẹ́ rì ráìsì.,Checked,2,Loanword;Phonological
+M05,S01,Market,Where is the market?,Níbo ni ọjà wà?,Kẹ̀ẹ́ bọjà nẹ́ẹ̀ ghá?,Checked,2,Lexical;Phonological
+M05,S02,Market,Where is the market?,Níbo ni ọjà wà?,Kẹ̀ẹ́ bọjà wá?,Checked,2,Lexical;Tonal
+M05,S03,Market,Where is the market?,Níbo ni ọjà wà?,Kẹ̀ẹ́ bọjà nẹ́ẹ̀ ghá?,Checked,2,Lexical;Phonological
+M06,S01,Market,I will pay two thousand naira.,Màá san ẹgbẹ̀rún méjì náírà.,Màá san ẹgbẹ̀ún méjì ghẹn.,Checked,1,Phonological
+M06,S02,Market,I will pay two thousand naira.,Màá san ẹgbẹ̀rún méjì náírà.,Màá gbẹ́gbẹ̀rún méjì náírà ghẹn.,Checked,0,
+M06,S03,Market,I will pay two thousand naira.,Màá san ẹgbẹ̀rún méjì náírà.,Dí mi san pò mẹ́ẹ̀gwá.,Checked,2,Lexical
+M07,S01,Market,Give me my change.,Fún mi ní owó ìyókù.,Bámi wọ́ ùyó bọ̀ nú ẹghó mi.,Checked,4,Lexical;Phonological
+M07,S02,Market,Give me my change.,Fún mi ní owó ìyókù.,Fún mi ọghó mi yòó bọ̀.,Checked,2,Lexical;Phonological
+M07,S03,Market,Give me my change.,Fún mi ní owó ìyókù.,Gbé eghó mi yó bọ̀ ghín mi.,Checked,2,Phonological
+M08,S01,Market,Where is the bus stop?,Níbo ni ibùdókọ̀ wà?,Kẹ̀ẹ́ bi ubùdọ́kọ̀ nẹ́ẹ̀ ghá?,Checked,3,Lexical;Phonological
+M08,S02,Market,Where is the bus stop?,Níbo ni ibùdókọ̀ wà?,Kẹ̀ẹ́ bọ̀ tí wọ̀ mátò?,Checked,1,Lexical
+M08,S03,Market,Where is the bus stop?,Níbo ni ibùdókọ̀ wà?,Kẹ̀ẹ́ bùdókọ̀ ghá?,Checked,2,Lexical;Phonological
+M09,S01,Market,I am going to the market.,Mo ń lọ sí ọjà.,Me re ọjà.,Checked,2,Lexical
+M09,S02,Market,I am going to the market.,Mo ń lọ sí ọjà.,Me re ọjà.,Checked,2,Lexical
+M09,S03,Market,I am going to the market.,Mo ń lọ sí ọjà.,Me re ọjà.,Checked,2,Lexical
+M10,S01,Market,Is it far from here?,Ṣé ó jìnnà láti ibí yìí?,Ó dẹ̀ sín sí béèyìí?,Checked,1,Lexical
+M10,S02,Market,Is it far from here?,Ṣé ó jìnnà láti ibí yìí?,Ó dẹ̀ sín sí bé?,Checked,1,Lexical
+M10,S03,Market,Is it far from here?,Ṣé ó jìnnà láti ibí yìí?,Ó dẹ̀ sín sí béèyìí?,Checked,2,Lexical
+M11,S01,Market,Do you have fresh tomatoes?,Ṣé o ní tòmátì tútù?,Wó dè nẹ́ tòmátò yó tutù.,Checked,3,Lexical;Phonological;Tonal
+M12,S01,Market,I want to buy three yams.,Mo fẹ́ ra iṣu mẹ́ta.,Mòó fẹ́ rùtṣú mẹ́ta.,Checked,2,Phonological
+M13,S01,Market,The pepper is very hot.,Ata náà gbóná gan-an.,Ita nẹ́ẹ̀ ó mà gbóná gan-an ni.,Checked,1,Lexical
+M14,S01,Market,Weigh it for me.,Wọn án fún mi.,Bámi wàn an.,Checked,3,Lexical;Phonological
+M15,S01,Market,How many do you want?,Mélòó ni o fẹ́?,Òlú ò fẹ́?,Checked,2,Lexical;Tonal
+M16,S01,Market,Put it in a bag.,Fi sínú àpò.,Bámi ko sinọ́ àpò.,Checked,2,Lexical;Phonological
+M17,S01,Market,The market is very crowded today.,Ọjà kún fún èrò lónìí.,Ọjà nẹ́ẹ̀ omà kán ghún èrò òní mẹ.,Checked,2,Phonological
+M18,S02,Market,The price of the goods is low.,Owó àwọn ọjà náà kéré.,Ẹghó ọjà nẹ́ẹ̀ ó kéré.,Checked,2,Lexical;Phonological
+M19,S02,Market,I am looking for a shop that sells shoes.,Mò ń wá ṣọ́ọ̀bù tó ń ta bàtà.,Mìí wá tṣọ́ọ̀bù yọọ̀ tí ti bàtà.,Checked,2,Phonological
+M20,S02,Market,Where can I get a taxi?,Níbo ni mo ti lè rí taksí?,Kẹ̀ẹ́bi mọ tì yáà rí taksí.,Checked,3,Lexical;Tonal
+M21,S02,Market,Please stop here.,Jọ̀ọ́ dúró níbí.,Dáàbọ̀ dúró béèyìí tán.,Checked,2,Lexical
+M22,S02,Market,The bus is full.,Bọ́ọ̀sì ti kún.,Bọ́ọ̀sì nẹ́ẹ̀ ti kọ́n.,Checked,1,Phonological
+M23,S02,Market,How much is the fare to Akure?,Èló ni owó ọkọ̀ lọ sí Àkúrẹ́?,Òlú ọ̀ mú wọ̀ mátò gbẹ̀ǹ sí Àkúrẹ́?,Checked,3,Lexical;Loanword
+M24,S02,Market,The road is bad.,Ọ̀nà náà bàjẹ́.,Ọ̀nà nẹ́ẹ̀ è san.,Checked,2,Lexical
+M25,S03,Market,Turn left at the junction.,Yí sí apá òsì ní ìkòríta náà.,Yà sáká òsì kùé bá tó oríta-mẹ́ta.,Checked,1,Lexical
+M26,S03,Market,I am late for work.,Mo pẹ́ sí ibi iṣẹ́.,Ó ti pẹ́ mi jù mìí re bu tṣẹ́.,Checked,2,Phonological
+M27,S03,Market,Sell it to me at a lower price.,Tà á fún mi ní owó tó kéré jù.,"Dẹ́n díẹ̀ ghín mi, ó ti ghán jù.",Checked,1,Phonological
+M28,S03,Market,I bought fish and vegetables.,Mo ra ẹja àti ẹ̀fọ́.,"Mòó rẹ̀fọ́, mòó rẹ̀ja.",Checked,1,Phonological
+M29,S03,Market,The seller is calling customers.,Olùtajà ń pe àwọn oníbàárà.,Ẹnẹ yèé tà un é ké sí ẹnẹ yòó fé bọ rà un.,Checked,2,Lexical
+M30,S03,Market,I will come back tomorrow.,Màá padà wá lọ́la.,Màá dèyìn wá ọ̀la.,Checked,1,Lexical
