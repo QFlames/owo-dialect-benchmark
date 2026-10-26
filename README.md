@@ -16,13 +16,23 @@ Treat all results as preliminary.
 
 | File | What it is |
 |---|---|
-| `data/raw/owo_annotations_2026-10-25.json` | Full Label Studio export (source of truth) |
+| `data/raw/owo_annotations_2026-10-26.json` | Current Label Studio export (source of truth). The 25 Oct export is kept for history |
 | `data/processed/sentences.csv` | One row per sentence: English, Standard, Owo, speaker, domain, `n_diffs`, `types` |
 | `data/processed/annotations.csv` | One row per annotated Owo word: position, `owo_word`, `std_word`, `type`, `pattern` |
 
 Types: **Tonal**, **Phonological**, **Lexical**, **Loanword**. Speakers: S00 (education set), S01 to S03.
 Rebuild the tables with `python src/prepare_data.py`.
 Read `DATA_NOTICE.md` before sharing data or sending it to any online service.
+
+### Data fixes
+
+The raw export is never edited. Anything the export still gets wrong is fixed in `data/corrections.csv` and applied by
+`prepare_data.py` (the `fix` column in `annotations.csv` shows which cells were changed).
+
+- The 26 Oct export has every Standard word and pattern filled except two, which `corrections.csv` fills (`source = suggested`; please confirm).
+- Decision: every *náà → nẹ́ẹ̀* is labelled **Lexical** with pattern `náà → nẹ́ẹ̀` (16 words). `prepare_data.py` applies this by default;
+  use `--unify-nee none` to see the labels exactly as annotated.
+- Open point: E03 labels *ń → nẹ́ẹ̀* with pattern `náà → nẹ́ẹ̀`; the Standard word there is *ń*, so `single-word replacements` may fit better.
 
 ## Quick start
 
@@ -54,5 +64,5 @@ python src/task1_dialect_gap.py                     # full run
 | Date | Task | Model / method | Standard | Owo | Notes |
 |---|---|---|---|---|---|
 | | Task 2 | copy baseline (chrF++ vs gold Owo) | | 21.6 | all 200 sentences |
-| | Task 2 | word lookup baseline | | 25.7 | leave-one-sentence-out |
+| | Task 2 | word lookup baseline | | 25.6 | leave-one-sentence-out |
 | | Task 1 | NLLB-200 600M | | | to run |

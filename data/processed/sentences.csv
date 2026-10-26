@@ -1,13 +1,13 @@
 ﻿sentence_id,speaker,domain,english,standard,owo,review,n_diffs,types
-E01,S00,Education,The teacher is teaching the students.,Olùkọ́ náà ń kọ́ àwọn akẹ́ẹ̀kọ́.,Olùkọ́ nẹ́ẹ̀ nkọ́ ọ̀ghọn akẹ́ẹ̀kọ́.,Checked,2,Phonological
+E01,S00,Education,The teacher is teaching the students.,Olùkọ́ náà ń kọ́ àwọn akẹ́ẹ̀kọ́.,Olùkọ́ nẹ́ẹ̀ nkọ́ ọ̀ghọn akẹ́ẹ̀kọ́.,Checked,2,Lexical;Phonological
 E02,S00,Education,I am a teacher.,Mo jẹ́ olùkọ́.,Mòó jẹ́ olùkọ́.,Checked,1,Phonological
 E03,S00,Education,The teacher is coming.,Olùkọ́ ń bọ̀.,Olùkọ́ nẹ́ẹ̀ wa.,Checked,2,Lexical
 E04,S00,Education,I am a student of my School.,Mo jẹ́ ọmọ ilé-ẹ̀kọ́ mi.,Mòó jẹ́ ọma ilé-ẹ̀kọ́ mi.,Checked,2,Phonological
 E05,S00,Education,"Good morning, students! Good morning, teacher.","Ẹ káàárọ̀, ẹ̀yin ọmọ ilé-ẹ̀kọ́! Ẹ káàárọ̀, olùkọ́.","Ẹ̀ghẹn káàárọ̀ o, ọma ilé-ẹ̀kọ́! Ẹ̀ghẹn káàárọ̀ o, olùkọ́.",Checked,3,Phonological
 E06,S00,Education,The students are listening.,Àwọn ọmọ ilé-ẹ̀kọ́ ń gbọ́.,Ọ̀ghọn ọma ilé-ìwé nẹ́ẹ̀ tẹ́tín salẹ̀.,Checked,5,Lexical;Phonological
 E07,S00,Education,This class is dirty! Pick up the dirt on the floor.,Yàrá-àkékòó yìí dọ̀tí! Kó ìdọ̀tí tó wà lórí ilẹ̀.,Yàrá-àkékòó yìí dọ̀tín! Kó èkù yé ńgórí alẹ̀ nẹ́ẹ̀.,Checked,6,Lexical;Phonological
-E08,S00,Education,A teacher is teaching the students in that class.,Olùkọ́ kan ń kọ́ àwọn ọmọ ilé-ẹ̀kọ́ nínú kíláàsì yẹn.,Tíṣà kàn kó ọ̀ghọn ọma akẹ́ẹ̀kọ́ ínọ́ kíláàsì nẹ́ẹ̀.,,6,Lexical;Loanword;Phonological;Tonal
-E09,S00,Education,This is my class.,Èyí ni kíláàsì mi.,Kíláàsì mi erè yìí.,,1,Phonological
+E08,S00,Education,A teacher is teaching the students in that class.,Olùkọ́ kan ń kọ́ àwọn ọmọ ilé-ẹ̀kọ́ nínú kíláàsì yẹn.,Tíṣà kàn kó ọ̀ghọn ọma akẹ́ẹ̀kọ́ ínọ́ kíláàsì nẹ́ẹ̀.,Checked,6,Lexical;Loanword;Phonological;Tonal
+E09,S00,Education,This is my class.,Èyí ni kíláàsì mi.,Kíláàsì mi erè yìí.,,1,Lexical
 E10,S00,Education,I am going to school.,Mo ń lọ sí ilé-ẹ̀kọ́.,Mìí re ṣùkúù.,Checked,1,Loanword
 E11,S00,Education,Won't you go to school today?,Ṣé o ò ní lọ sí ilé-ẹ̀kọ́ lónìí?,Ṣé wé è ní yú ṣùkúù òní dẹ?,Checked,3,Lexical;Loanword
 E12,S00,Education,You will be punished if you are late to school.,Wọ́n máa fìyà jẹ ọ́ tí o bá pẹ́ sí ilé-ẹ̀kọ́.,Ọ̀ghọn á mú yà jẹ́ kúe bá pẹ́ rè ṣùkúù.,Checked,5,Lexical;Loanword;Phonological;Tonal
@@ -35,7 +35,7 @@ E33,S00,Education,Do not make noise while I teach you.,Ẹ máà pariwo nígbà 
 E34,S00,Education,Don't you listen while you're being taught?,Ṣé ẹ̀yin ò kí ń gbọ́rọn nígbà tí wọ́n bá ń kọ́ yín?,Ṣẹ́ ẹ̀ghẹ́n gbọ́ kọ̀ bẹ́ kọ́ ghẹn dẹ̀,Checked,4,Lexical;Phonological
 E35,S00,Education,Who is absent from school today?,Ta ni kò sí ní ilé-ẹ̀kọ́ lónìí?,Sé máà wá sí ṣùkúù òní?,Checked,1,Loanword
 E36,S00,Education,"If I call your name, say, ""I am present, ma'am.""","Tí mo bá pe orúkọ rẹ, sọ pé, ""Mo wà níbí, Màmá.""","Kì mbá ti pòrúkọ ẹ, wé fọ̀ fi, ""Mì ghún bé, yèmi.""",Checked,8,Lexical;Phonological;Tonal
-E37,S00,Education,I want to take attendance now.,Mo fẹ́ gba àkọsílẹ̀ àwọn tó wà ní yàrá-àkékòó báyìí.,Mòó fẹ́ kọrúkọ sálè bẹ́ẹ̀nyìí.,Checked,2,Phonological
+E37,S00,Education,I want to take attendance now.,Mo fẹ́ gba àkọsílẹ̀ àwọn tó wà ní yàrá-àkékòó báyìí.,Mòó fẹ́ kọrúkọ sálè bẹ́ẹ̀nyìí.,Checked,2,Lexical;Phonological
 E38,S00,Education,My book is torn.,Ìwé mi ti ya.,Ìwé mi ti ya.,Checked,0,
 E39,S00,Education,"If you haven't bought your books, stand up.","Tí o ò bá tíì ra àwọn ìwé rẹ, dìde.","Kúe máà tì rà wé ẹ, kòró dúró.",Checked,4,Lexical;Tonal
 E40,S00,Education,"I bought the book for 5,000 naira.",Mo ra ìwé náà fún ẹgbẹ̀rún márùn-ún náírà.,Mòó ràwé nẹ́ẹ̀ ẹgbẹ̀rún mẹ́ẹ̀rún náírà.,Checked,3,Lexical;Phonological
@@ -112,7 +112,7 @@ H04,S01,Health,I have a fever.,Mo ní ibà.,Mòó níbà.,Checked,1,Phonological
 H04,S02,Health,I have a fever.,Mo ní ibà.,Mòó níbà.,Checked,1,Phonological
 H04,S03,Health,I have a fever.,Mo ní ibà.,Mòó níbà.,Checked,1,Phonological
 H05,S01,Health,Go to the hospital.,Lọ sí ilé-ìwòsàn.,Gbẹ̀ ṣúlí-ìwòsàn.,Checked,2,Lexical;Phonological
-H05,S02,Health,Go to the hospital.,Lọ sí ilé-ìwòsàn.,Gbẹ̀ ṣúlí-ìwòsàn.,Checked,3,Lexical;Phonological
+H05,S02,Health,Go to the hospital.,Lọ sí ilé-ìwòsàn.,Gbẹ̀ ṣúlí-ìwòsàn.,Checked,2,Lexical;Phonological
 H05,S03,Health,Go to the hospital.,Lọ sí ilé-ìwòsàn.,Ka rùlí-ìwòsàn.,Checked,1,Lexical
 H06,S01,Health,Use this medicine two times a day.,Lo òògùn yìí lẹ́ẹ̀mejì lójúmọ́.,Lo òògùn yìí kòméjì ojúmá.,Checked,2,Lexical;Phonological
 H06,S02,Health,Use this medicine two times a day.,Lo òògùn yìí lẹ́ẹ̀mejì lójúmọ́.,Lo òògùn yìí kòméjì ojúmá.,Checked,2,Lexical;Phonological

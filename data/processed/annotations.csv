@@ -1,426 +1,425 @@
-﻿sentence_id,speaker,domain,start,end,owo_word,std_word,type,pattern
-E01,S00,Education,18,24,ọ̀ghọn,àwọn,Phonological,w → gh
-E01,S00,Education,7,12,nẹ́ẹ̀,náà,Phonological,áà → ẹ́ẹ̀
-E02,S00,Education,0,3,Mòó,Mo,Phonological,mo → mòó
-E03,S00,Education,7,12,nẹ́ẹ̀,ń,Lexical,náà → nẹ́ẹ̀
-E03,S00,Education,13,15,wa,bọ̀,Lexical,single-word replacements
-E04,S00,Education,8,11,ọma,ọmọ,Phonological,ọ → a
-E04,S00,Education,0,3,Mòó,Mo,Phonological,mo → mòó
-E05,S00,Education,18,21,ọma,ọmọ,Phonological,ọ → a
-E05,S00,Education,0,6,Ẹ̀ghẹn,Ẹ,Phonological,ẹ / ẹ̀yin (you pl.) → ẹ̀ghẹn
-E05,S00,Education,33,39,Ẹ̀ghẹn,ẹ̀yin,Phonological,ẹ / ẹ̀yin (you pl.) → ẹ̀ghẹn
-E06,S00,Education,0,6,Ọ̀ghọn,Àwọn,Phonological,w → gh
-E06,S00,Education,7,10,ọma,ọmọ,Phonological,ọ → a
-E06,S00,Education,19,24,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀
-E06,S00,Education,25,31,tẹ́tín,tẹ́tí,Phonological,final letter → n
-E06,S00,Education,32,37,salẹ̀,sílẹ̀,Phonological,i → a
-E07,S00,Education,16,22,dọ̀tín,,Phonological,final letter → n
-E07,S00,Education,27,30,èkù,,Lexical,single-word replacements
-E07,S00,Education,31,33,yé,tó,Lexical,single-word replacements
-E07,S00,Education,34,39,ńgórí,wà,Lexical,single-word replacements
-E07,S00,Education,45,50,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀
-E07,S00,Education,40,44,alẹ̀,ilẹ̀.,Phonological,i → a
-E08,S00,Education,12,18,ọ̀ghọn,àwọn,Phonological,w → gh
-E08,S00,Education,19,22,ọma,ọmọ,Phonological,ọ → a
-E08,S00,Education,0,4,Tíṣà,Olùkọ́,Loanword,English loanwords
-E08,S00,Education,5,8,kàn,kan,Tonal,unmarked (mid) → marked H/L
-E08,S00,Education,33,37,ínọ́,,Phonological,u → ọ
-E08,S00,Education,46,51,nẹ́ẹ̀,yẹn,Lexical,single-word replacements
-E09,S00,Education,11,14,erè,,Phonological,
-E10,S00,Education,7,12,ṣùkúù,ilé-ẹ̀kọ́,Loanword,English loanwords
-E11,S00,Education,3,5,wé,o,Lexical,o (you) → wé/wo
-E11,S00,Education,14,19,ṣùkúù,ilé-ẹ̀kọ́,Loanword,English loanwords
-E11,S00,Education,11,13,yú,lọ,Lexical,single-word replacements
-E12,S00,Education,0,6,Ọ̀ghọn,Wọ́n,Phonological,w → gh
-E12,S00,Education,33,38,ṣùkúù,ilé-ẹ̀kọ́,Loanword,English loanwords
-E12,S00,Education,15,18,jẹ́,jẹ,Tonal,unmarked (mid) → marked H/L
-E12,S00,Education,30,32,rè,sí,Lexical,single-word replacements
-E12,S00,Education,19,22,kúe,tí o,Lexical,single-word replacements
-E13,S00,Education,16,22,ùdánwò,ìdánwò,Phonological,initial i → u
-E13,S00,Education,3,5,wo,o,Lexical,o (you) → wé/wo
-E14,S00,Education,24,30,ùdánwò,ìdánwò,Phonological,initial i → u
-E14,S00,Education,0,3,Mòó,Mo,Phonological,mo → mòó
-E14,S00,Education,4,7,gbà,gba,Tonal,unmarked (mid) → marked H/L
-E14,S00,Education,19,23,ínọ́,nínú,Phonological,u → ọ
-E15,S00,Education,8,12,ghún,fún,Phonological,f → gh (fún)
-E15,S00,Education,13,19,ùdánwò,ìdánwò,Phonological,initial i → u
-E15,S00,Education,0,2,Mì,mi,Tonal,unmarked (mid) → marked H/L
-E16,S00,Education,3,5,wo,o,Lexical,o (you) → wé/wo
-E16,S00,Education,9,13,ṣuṣé,iṣẹ́,Phonological,initial i → u
-E17,S00,Education,0,3,Kàá,Lọ,Lexical,single-word replacements
-E17,S00,Education,4,9,ṣuṣẹ́,iṣẹ́,Phonological,initial i → u
-E18,S00,Education,0,10,Àsáínmẹ́nt,àyànfún,Loanword,English loanwords
-E19,S00,Education,15,18,ùwé,ìwé,Phonological,initial i → u
-E19,S00,Education,0,3,Mòó,Mo,Phonological,mo → mòó
-E19,S00,Education,10,14,gede,gbogbo,Lexical,single-word replacements
-E19,S00,Education,7,9,kà,ka,Tonal,unmarked (mid) → marked H/L
-E20,S00,Education,0,2,Wé,O,Lexical,o (you) → wé/wo
-E20,S00,Education,3,4,è,ò,Lexical,single-word replacements
-E21,S00,Education,20,24,ghún,fún,Phonological,f → gh (fún)
-E21,S00,Education,14,19,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀
-E21,S00,Education,0,4,Kòró,Dìde,Lexical,single-word replacements
-E21,S00,Education,5,8,dúe,kí o,Lexical,words replacements
-E22,S00,Education,0,2,Wè,O,Lexical,o (you) → wé/wo
-E22,S00,Education,11,15,lúkà,dáadáa,Lexical,single-word replacements
-E23,S00,Education,10,14,gede,gbogbo,Lexical,single-word replacements
-E23,S00,Education,0,3,Mìí,Mi ò,Lexical,words replacements
-E23,S00,Education,15,18,ùwé,ìwé,Phonological,initial i → u
-E24,S00,Education,0,3,Mòó,Mo,Phonological,mo → mòó
-E24,S00,Education,7,9,kà,ka,Tonal,unmarked (mid) → marked H/L
-E24,S00,Education,15,22,ẹyọ̀kàn,ọ̀kan,Tonal,unmarked (mid) → marked H/L
-E25,S00,Education,8,11,ati,kún,Lexical,single-word replacements
-E25,S00,Education,12,19,ẹyọ̀kàn,ọ̀kan,Tonal,unmarked (mid) → marked H/L
-E25,S00,Education,0,7,Ẹyọ̀kàn,Ọ̀kan,Tonal,unmarked (mid) → marked H/L
-E26,S00,Education,18,26,mẹ́ẹ̀rẹn,mẹ́rin,Phonological,-in → -ẹn
-E27,S00,Education,3,6,mòó,mo,Phonological,mo → mòó
-E28,S00,Education,0,4,Ǹgòó,O,Lexical,single-word replacements
-E29,S00,Education,10,15,ṣùkúù,ilé-ẹ̀kọ́,Loanword,English loanwords
-E29,S00,Education,0,2,Kú,Kí,Phonological,initial i → u
-E30,S00,Education,0,6,Ọ̀ghọn,Àwọn,Phonological,w → gh
-E30,S00,Education,7,10,ọma,ọmọ,Phonological,ọ → a
-E30,S00,Education,11,16,ṣùkúù,ilé-ẹ̀kọ́,Loanword,English loanwords
-E31,S00,Education,0,8,Ọkọ̀nrẹn,Ọkùnrin,Phonological,-in → -ẹn
-E31,S00,Education,0,8,Ọkọ̀nrẹn,Ọkùnrin,Phonological,u → ọ
-E31,S00,Education,9,14,nẹ́ẹ̀,yẹn,Lexical,single-word replacements
-E32,S00,Education,20,26,ọ̀ghọn,àwọn,Phonological,w → gh
-E32,S00,Education,27,32,ọmadé,ọmọdé,Phonological,ọ → a
-E32,S00,Education,33,40,ojojúmá,lójojúmọ́.,Phonological,ọ → a
-E33,S00,Education,0,5,Èghẹn,Ẹ,Phonological,ẹ / ẹ̀yin (you pl.) → ẹ̀ghẹn
-E33,S00,Education,28,30,ti,tí,Tonal,marked → unmarked (mid)
-E33,S00,Education,20,30,kì mbẹ́ ti,nígbà tí mo bá ń,Lexical,words replacements
-E33,S00,Education,35,39,ghẹn,yín,Phonological,ẹ / ẹ̀yin (you pl.) → ẹ̀ghẹn
-E34,S00,Education,4,11,ẹ̀ghẹ́n,ẹ̀yin,Phonological,ẹ / ẹ̀yin (you pl.) → ẹ̀ghẹn
-E34,S00,Education,12,20,gbọ́ kọ̀,ò kí ń gbọ́rọn,Lexical,words replacements
-E34,S00,Education,21,24,bẹ́,nígbà tí wọ́n bá,Lexical,words replacements
-E34,S00,Education,29,33,ghẹn,yín,Phonological,ẹ / ẹ̀yin (you pl.) → ẹ̀ghẹn
-E35,S00,Education,13,18,ṣùkúù,ilé-ẹ̀kọ́,Loanword,English loanwords
-E36,S00,Education,7,9,ti,Tí,Tonal,marked → unmarked (mid)
-E36,S00,Education,0,2,Kì,Tí,Lexical,single-word replacements
-E36,S00,Education,23,26,fọ̀,sọ,Lexical,single-word replacements
-E36,S00,Education,27,29,fi,pé,Lexical,single-word replacements
-E36,S00,Education,35,39,ghún,,Phonological,w → gh
-E36,S00,Education,40,42,bé,níbí,Phonological,
-E36,S00,Education,44,48,yèmi,Màmá,Lexical,single-word replacements
-E36,S00,Education,32,34,Mì,Mo,Lexical,single-word replacements
-E37,S00,Education,0,3,Mòó,Mo,Phonological,mo → mòó
-E37,S00,Education,20,29,bẹ́ẹ̀nyìí,báyìí,Phonological,
-E39,S00,Education,11,13,rà,ra,Tonal,unmarked (mid) → marked H/L
-E39,S00,Education,8,10,tì,Tí,Tonal,wà/wá-type L↔H swap
-E39,S00,Education,0,3,Kúe,Tí,Lexical,single-word replacements
-E39,S00,Education,20,29,kòró dúró,dìde,Lexical,words replacements
-E40,S00,Education,0,3,Mòó,Mo,Phonological,mo → mòó
-E40,S00,Education,24,32,mẹ́ẹ̀rún,márùn-ún,Phonological,áà → ẹ́ẹ̀
-E40,S00,Education,9,14,nẹ́ẹ̀,náà,Lexical,áà → ẹ́ẹ̀
-E41,S00,Education,0,3,Mòó,Mo,Phonological,mo → mòó
-E42,S00,Education,21,34,núlí-ùwé gíga,yunifásítì.,Lexical,single-word replacements
-E42,S00,Education,12,15,Ùma,Ìmọ̀,Phonological,initial i → u
-E43,S00,Education,0,13,Ulí-èkọ́ gíga,Yunifásítì,Lexical,single-word replacements
-E43,S00,Education,26,30,lála,ńlá,Lexical,single-word replacements
-E44,S00,Education,0,3,Ùmà,Ìmọ̀,Phonological,initial i → u
-E45,S00,Education,6,8,ùn,ni,Lexical,words replacements
-E46,S00,Education,19,24,ṣùkúù,ilé-ìwé,Loanword,English loanwords
-E46,S00,Education,28,30,rè,lọ sí,Lexical,words replacements
-E46,S00,Education,0,2,Mì,Mo,Lexical,single-word replacements
-E47,S00,Education,0,6,Ọ̀ghọn,Àwọn,Phonological,w → gh
-E47,S00,Education,7,10,ọma,ọmọ,Phonological,ọ → a
-E47,S00,Education,11,16,ṣùkúù,ilé-ẹ̀kọ́,Loanword,English loanwords
-E47,S00,Education,23,26,wọ̀,wọ,Tonal,unmarked (mid) → marked H/L
-E47,S00,Education,37,40,yòó,tó,Lexical,single-word replacements
-E47,S00,Education,41,43,má,mọ́,Phonological,ọ → a
-E48,S00,Education,21,25,yéye,púpọ̀,Lexical,single-word replacements
-E49,S00,Education,8,11,ọma,ọmọ,Phonological,ọ → a
-E49,S00,Education,0,3,Mòó,Mo,Phonological,mo → mòó
-E49,S00,Education,27,41,ulí-ẹ̀kọ́ gíga,yunifásítì,Lexical,single-word replacements
-E49,S00,Education,42,47,nẹ́ẹ̀,yẹn,Lexical,single-word replacements
-E50,S00,Education,0,3,Mòó,Mo,Phonological,mo → mòó
-E50,S00,Education,40,45,kínẹ́,kíní,Phonological,-in → -ẹn
-F01,S01,Family,9,15,ùọ̀lẹ́,ìrọ̀lẹ́,Phonological,r dropped between vowels
-F01,S01,Family,0,5,Èghẹn,Ẹ,Phonological,ẹ / ẹ̀yin (you pl.) → ẹ̀ghẹn
-F01,S01,Family,27,32,arálé,ẹbí,Lexical,single-word replacements
-F01,S02,Family,9,15,ùọ̀lẹ́,ìrọ̀lẹ́,Phonological,r dropped between vowels
-F01,S02,Family,0,5,Èghẹn,Ẹ,Phonological,ẹ / ẹ̀yin (you pl.) → ẹ̀ghẹn
-F01,S02,Family,27,32,arálé,ẹbí,Lexical,single-word replacements
-F01,S03,Family,0,6,Ẹ̀ghẹn,Ẹ,Phonological,ẹ / ẹ̀yin (you pl.) → ẹ̀ghẹn
-F01,S03,Family,25,30,arálé,ẹbí,Lexical,single-word replacements
-F02,S01,Family,7,11,ghún,wà,Phonological,w → gh
-F02,S01,Family,0,3,Ibà,Bàbá,Lexical,single-word replacements
-F02,S02,Family,7,11,ghún,wà,Phonological,w → gh
-F02,S02,Family,0,3,Ibà,Bàbá,Lexical,single-word replacements
-F02,S03,Family,7,11,ghún,wà,Phonological,w → gh
-F02,S03,Family,0,3,Ibà,Bàbá,Lexical,single-word replacements
-F03,S01,Family,4,6,mí,mi,Tonal,unmarked (mid) → marked H/L
-F03,S01,Family,7,12,jù-ùn,se,Lexical,single-word replacements
-F03,S02,Family,5,12,tṣun-ùn,se,Lexical,single-word replacements
-F03,S03,Family,6,13,tṣùn-ùn,se,Lexical,single-word replacements
-F03,S03,Family,0,5,Imàmí,Ìyá mi,Lexical,single-word replacements
-F04,S01,Family,15,21,tṣetán,ṣetán,Phonological,ṣ → tṣ
-F04,S02,Family,0,6,Òùnjẹ́,Oúnjẹ,Tonal,unmarked (mid) → marked H/L
-F04,S02,Family,10,12,kú,ṣetán,Lexical,single-word replacements
-F04,S03,Family,10,16,tṣetán,ṣetán,Phonological,ṣ → tṣ
-F04,S03,Family,0,6,Òùnjẹ́,Oúnjẹ,Tonal,unmarked (mid) → marked H/L
-F05,S01,Family,0,2,Yá,Wá,Lexical,single-word replacements
-F05,S02,Family,5,7,yá,Wá,Lexical,single-word replacements
-F05,S03,Family,0,2,Yá,Wá,Lexical,
-F06,S01,Family,0,3,Mòó,Mo,Phonological,mo → mòó
-F06,S01,Family,4,7,nẹ́,ní,Phonological,-in → -ẹn
-F06,S01,Family,8,21,ẹ̀gbánkọ̀nrẹn,arákùnrin,Phonological,ọ → a
-F06,S01,Family,8,21,ẹ̀gbánkọ̀nrẹn,arákùnrin,Phonological,-in → -ẹn
-F06,S01,Family,36,43,óbìnrẹn,arábìnrin,Phonological,-in → -ẹn
-F06,S02,Family,0,3,Mòó,Mo,Phonological,mo → mòó
-F06,S02,Family,31,38,obìnrẹn,arábìnrin,Phonological,-in → -ẹn
-F06,S02,Family,8,21,ẹ̀gbánkọ̀nrẹn,arákùnrin,Phonological,-in → -ẹn
-F06,S02,Family,8,21,ẹ̀gbánkọ̀nrẹn,ẹ̀gbọ́nkùnrin,Phonological,ọ → a
-F06,S03,Family,0,3,Mòó,Mo,Phonological,mo → mòó
-F06,S03,Family,4,7,nẹ́,ní,Phonological,-in → -ẹn
-F06,S03,Family,8,21,ẹ̀gbánkọ̀nrẹn,arákùnrin,Phonological,-in → -ẹn
-F06,S03,Family,28,35,obìnrẹn,,Phonological,-in → -ẹn
-F06,S03,Family,8,21,ẹ̀gbánkọ̀nrẹn,ẹ̀gbọ́nkùnrin,Phonological,ọ → a
-F07,S01,Family,17,20,ghà,wà,Phonological,w → gh
-F07,S01,Family,0,5,Kẹ̀ẹ́,Níbo ni,Lexical,"""where"" = kẹ- word"
-F07,S01,Family,13,16,rẹ̀,rẹ,Tonal,unmarked (mid) → marked H/L
-F07,S01,Family,6,8,bu,bo,Lexical,single-word replacements
-F07,S02,Family,17,20,ghá,wà,Phonological,w → gh
-F07,S02,Family,9,12,ulí,ilé,Phonological,initial i → u
-F07,S02,Family,0,5,Kẹ̀ẹ́,Níbo ni,Lexical,"""where"" = kẹ- word"
-F07,S03,Family,16,19,ghá,wà,Phonological,w → gh
-F07,S03,Family,0,5,Kẹ̀ẹ́,Níbo ni,Lexical,"""where"" = kẹ- word"
-F08,S01,Family,5,8,tṣí,Ṣí,Phonological,ṣ → tṣ
-F08,S01,Family,0,4,Bámi,—,Lexical,bámi + command
-F08,S01,Family,9,16,ìlẹ̀kùn,ilẹ̀kùn,Tonal,unmarked (mid) → marked H/L
-F08,S02,Family,0,3,Tṣí,Ṣí,Phonological,ṣ → tṣ
-F08,S03,Family,0,3,Tṣí,Ṣí,Phonological,ṣ → tṣ
-F09,S01,Family,0,6,Ọ̀ghọn,Àwọn,Phonological,w → gh
-F09,S01,Family,17,22,tṣeré,ṣeré,Phonological,ṣ → tṣ
-F09,S01,Family,7,12,ọmadé,ọmọdé,Phonological,ọ → a
-F09,S02,Family,0,6,Ọ̀ghọn,Àwọn,Phonological,w → gh
-F09,S02,Family,7,12,ọmadé,ọmọdé,Phonological,ọ → a
-F09,S02,Family,19,24,tṣuré,,Phonological,ṣ → tṣ
-F09,S03,Family,0,6,Ọ̀ghọn,Àwọn,Phonological,w → gh
-F09,S03,Family,13,18,tṣeré,ṣeré,Phonological,ṣ → tṣ
-F09,S03,Family,7,12,ọmadé,ọmọdé,Phonological,ọ → a
-F10,S01,Family,3,6,tṣé,ṣeun,Phonological,ṣ → tṣ
-F10,S01,Family,0,2,Wo,Ẹ,Lexical,single-word replacements
-F10,S02,Family,3,6,tṣé,ṣeun,Phonological,ṣ → tṣ
-F10,S03,Family,3,6,tṣé,ṣeun,Phonological,ṣ → tṣ
-F10,S03,Family,0,2,Wo,Ẹ,Lexical,single-word replacements
-F11,S01,Family,7,11,agbà,àgbà,Tonal,marked → unmarked (mid)
-F11,S01,Family,20,32,aghéré íyoko,abúlé,Lexical,words replacements
-F11,S01,Family,16,19,nọ́,ní,Phonological,u → ọ
-F12,S01,Family,15,20,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀
-F12,S01,Family,0,4,Bámi,—,Lexical,bámi + command
-F13,S01,Family,5,7,rù,lọ,Lexical,single-word replacements
-F14,S01,Family,0,3,Pan,,Phonological,ọ → a
-F14,S01,Family,19,23,inọ́,inú,Phonological,u → ọ
-F15,S01,Family,6,12,ẹ̀gbán,ẹ̀gbọ́n,Phonological,ọ → a
-F15,S01,Family,13,21,ọkọ̀nrẹn,ọkùnrin,Phonological,-in → -ẹn
-F16,S01,Family,9,14,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀
-F16,S01,Family,4,8,ékeé,ọwọ́,Lexical,
-F16,S01,Family,0,3,Ọma,Ọmọ,Phonological,single-word replacements
-F17,S01,Family,5,9,jẹún,jẹun,Tonal,unmarked (mid) → marked H/L
-F17,S01,Family,10,15,pọ̀ọ́,papọ̀,Lexical,single-word replacements
-F19,S02,Family,0,3,Èjí,Òjò,Lexical,
-F20,S02,Family,0,5,Àbúro,Àbúrò,Tonal,marked → unmarked (mid)
-F20,S02,Family,17,19,wa,wá,Tonal,marked → unmarked (mid)
-F20,S02,Family,11,13,yá,wá,Lexical,single-word replacements
-F21,S02,Family,0,3,Mìí,Mò,Lexical,single-word replacements
-F22,S02,Family,18,21,ghá,wà,Phonological,w → gh
-F22,S02,Family,0,5,Kẹ̀ẹ́,Níbo ni,Lexical,"""where"" = kẹ- word"
-F23,S02,Family,0,4,Bámi,—,Lexical,bámi + command
-F25,S03,Family,0,3,Ulí,Ilé,Phonological,initial i → u
-F26,S03,Family,16,25,sìnghọnọ̀,sinmi,Lexical,single-word replacements
-F26,S03,Family,9,12,mòó,mo,Phonological,single-word replacements
-F27,S03,Family,15,19,ghín,fún,Phonological,f → gh (fún)
-F27,S03,Family,3,8,agomi,ife omi,Lexical,words replacements
-F27,S03,Family,0,2,Ja,Gbé,Lexical,single-word replacements
-F28,S03,Family,0,6,Ẹ̀gbán,Ẹ̀gbọ́n,Phonological,ọ → a
-F28,S03,Family,10,18,obìnrẹ́n,obìnrin,Phonological,-in → -ẹn
-F29,S03,Family,8,12,ghún,wà,Phonological,w → gh
-F29,S03,Family,0,4,Gede,Gbogbo,Lexical,single-word replacements
-F30,S03,Family,15,18,sun,sùn,Tonal,marked → unmarked (mid)
-H01,S01,Health,0,3,Arà,Ara,Tonal,unmarked (mid) → marked H/L
-H01,S01,Health,4,6,mí,mi,Tonal,unmarked (mid) → marked H/L
-H01,S01,Health,7,8,ì,ò,Lexical,single-word replacements
-H01,S02,Health,0,2,Mí,mi,Tonal,unmarked (mid) → marked H/L
-H01,S02,Health,3,4,ì,ò,Lexical,single-word replacements
-H01,S02,Health,5,7,ni,yá,Lexical,single-word replacements
-H01,S03,Health,0,3,Arà,Ara,Tonal,unmarked (mid) → marked H/L
-H01,S03,Health,4,6,mí,mi,Tonal,unmarked (mid) → marked H/L
-H01,S03,Health,7,8,ì,ò,Lexical,
-H02,S01,Health,0,3,Kẹ́,Níbo ni,Lexical,"""where"" = kẹ- word"
-H02,S01,Health,10,12,já,dùn,Lexical,single-word replacements
-H02,S02,Health,0,3,Kẹ́,Níbo ni,Lexical,"""where"" = kẹ- word"
-H02,S02,Health,7,9,já,dùn,Lexical,single-word replacements
-H02,S03,Health,0,3,Kẹ̀,Níbo ni,Lexical,"""where"" = kẹ- word"
-H02,S03,Health,7,9,já,dùn,Lexical,single-word replacements
-H03,S01,Health,4,6,là,fọ́,Lexical,single-word replacements
-H03,S02,Health,4,6,là,fọ́,Lexical,single-word replacements
-H03,S03,Health,4,6,mí,mi,Tonal,unmarked (mid) → marked H/L
-H03,S03,Health,7,9,là,fọ́,Lexical,single-word replacements
-H04,S01,Health,0,3,Mòó,Mo,Phonological,mo → mòó
-H04,S02,Health,0,3,Mòó,Mo,Phonological,mo → mòó
-H04,S03,Health,0,3,Mòó,Mo,Phonological,mo → mòó
-H05,S01,Health,0,4,Gbẹ̀,Lọ,Lexical,single-word replacements
-H05,S01,Health,6,9,úlí,ilé,Phonological,initial i → u
-H05,S02,Health,0,4,Gbẹ̀,Lọ,Lexical,single-word replacements
-H05,S02,Health,6,9,úlí,ilé,Phonological,initial i → u
-H05,S02,Health,5,9,ṣúlí,sí ilé,Lexical,
-H05,S03,Health,3,7,rùlí,Lọ sí ilé,Lexical,words replacements
-H06,S01,Health,13,19,kòméjì,lẹ́ẹ̀mejì,Lexical,single-word replacements
-H06,S01,Health,20,25,ojúmá,lójúmọ́,Phonological,ọ → a
-H06,S02,Health,13,19,kòméjì,lẹ́ẹ̀mejì,Lexical,single-word replacements
-H06,S02,Health,20,25,ojúmá,lójúmọ́,Phonological,words replacements
-H06,S03,Health,13,19,kòméjì,lẹ́ẹ̀mejì,Lexical,single-word replacements
-H06,S03,Health,25,32,ojojúmá,lójúmọ́,Phonological,ọ → a
-H07,S01,Health,13,17,yéye,púpọ̀,Lexical,single-word replacements
-H07,S01,Health,0,2,Mọ,Mu,Phonological,u → ọ
-H07,S02,Health,0,2,Mọ,Mu,Phonological,u → ọ
-H07,S02,Health,13,17,yéye,púpọ̀,Lexical,single-word replacements
-H07,S03,Health,0,2,Mọ,,Phonological,u → ọ
-H07,S03,Health,13,17,yéye,púpọ̀,Lexical,single-word replacements
-H08,S01,Health,8,13,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀
-H08,S02,Health,7,12,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀
-H08,S03,Health,11,13,wa,bọ̀,Lexical,single-word replacements
-H09,S01,Health,0,4,Ukùn,Ikùn,Phonological,initial i → u
-H09,S01,Health,12,14,jà,dùn,Lexical,single-word replacements
-H09,S02,Health,4,6,jà,dùn,Lexical,
-H09,S02,Health,7,9,mi,mí,Tonal,unmarked (mid) → marked H/L
-H09,S03,Health,8,10,jà,dùn,Lexical,single-word replacements
-H09,S03,Health,11,13,mi,mí.,Tonal,unmarked (mid) → marked H/L
-H10,S01,Health,0,3,Arà,Ara,Tonal,unmarked (mid) → marked H/L
-H10,S01,Health,4,6,mó,mi,Lexical,single-word replacements
-H10,S01,Health,13,21,bẹ́ẹ̀yìí,báyìí,Lexical,single-word replacements
-H10,S02,Health,7,9,tí,ti,Tonal,unmarked (mid) → marked H/L
-H10,S02,Health,13,16,ẹ̀ń,báyìí,Lexical,single-word replacements
-H10,S03,Health,0,3,Arà,Ara,Tonal,unmarked (mid) → marked H/L
-H10,S03,Health,7,9,tí,ti,Tonal,unmarked (mid) → marked H/L
-H11,S01,Health,0,5,Wẹ́ẹ̀,o,Lexical,o (you) → wé/wo
-H12,S01,Health,0,2,Mí,Mi,Tonal,unmarked (mid) → marked H/L
-H12,S01,Health,12,20,kálẹ́lẹ́,lálẹ́,Lexical,single-word replacements
-H12,S01,Health,5,7,ya,lè,Lexical,single-word replacements
-H13,S01,Health,7,14,tṣàìsàn,ṣàìsàn,Phonological,ṣ → tṣ
-H13,S01,Health,0,3,Ọmà,Ọmọ,Phonological,ọ → a
-H13,S01,Health,4,6,mí,mi,Tonal,unmarked (mid) → marked H/L
-H14,S01,Health,9,14,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀
-H15,S01,Health,5,10,ọghọ́,ọwọ́,Phonological,w → gh
-H15,S01,Health,0,4,Tṣàn,Fọ,Lexical,single-word replacements
-H15,S01,Health,14,17,dúe,kí o,Lexical,words replacements
-H16,S01,Health,0,4,Ukọ́,ikọ́,Phonological,initial i → u
-H16,S01,Health,5,9,ghún,ní,Lexical,single-word replacements
-H17,S01,Health,3,7,bẹ̀ù,,Phonological,r dropped between vowels
-H18,S02,Health,21,27,bẹ̀rẹ́,bẹ̀rẹ̀,Tonal,wà/wá-type L↔H swap
-H19,S02,Health,11,14,tṣí,ṣí,Phonological,ṣ → tṣ
-H19,S02,Health,0,10,Ulí-ùwòsan,Ilé-ìwòsàn,Phonological,initial i → u
-H20,S02,Health,0,3,Mòó,Mo,Phonological,mo → mòó
-H22,S02,Health,10,16,àghọ̀n,àwọ̀n,Phonological,w → gh
-H22,S02,Health,17,22,ẹ̀fan,ẹ̀fọn,Phonological,ọ → a
-H23,S02,Health,7,10,yòó,tó,Lexical,single-word replacements
-H23,S02,Health,11,14,san,dára,Lexical,single-word replacements
-H23,S02,Health,16,19,dúe,kí o,Lexical,words replacements
-H23,S02,Health,23,29,ghọnọ̀,sinmi,Lexical,single-word replacements
-H24,S02,Health,0,3,Ọsè,Ẹsẹ̀,Lexical,single-word replacements
-H25,S03,Health,0,5,Kẹ̀ẹ́,Níbo ni,Lexical,"""where"" = kẹ- word"
-H26,S03,Health,10,15,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀
-H26,S03,Health,0,3,Òlú,Èló,Lexical,
-H27,S03,Health,0,3,Mòó,Mo,Phonological,mo → mòó
-H27,S03,Health,12,17,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀
-H27,S03,Health,18,23,òwúọ̀,òwúrọ̀,Phonological,r dropped between vowels
-H28,S03,Health,0,6,Dáàbọ̀,Jọ̀ọ́,Lexical,single-word replacements
-H29,S03,Health,0,3,Ọma,Ọmọ,Phonological,ọ → a
-H29,S03,Health,4,9,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀
-H29,S03,Health,10,16,sọnkún,sunkún,Phonological,u → ọ
-H30,S03,Health,0,5,Dèyìn,Padà,Lexical,single-word replacements
-H30,S03,Health,21,27,ọ̀sẹ̀n,,Phonological,final letter → n
-H30,S03,Health,6,10,ghún,,Lexical,single-word replacements
-H30,S03,Health,28,30,yé,tó,Lexical,
-H30,S03,Health,31,33,wà,bọ̀,Lexical,single-word replacements
-M01,S01,Market,0,3,Ùló,Èló,Lexical,single-word replacements
-M01,S01,Market,4,6,sí,ni,Lexical,single-word replacements
-M01,S01,Market,7,11,yùré,èyí,Lexical,single-word replacements
-M01,S02,Market,0,3,Òlú,Èló,Lexical,single-word replacements
-M01,S03,Market,0,3,Òlú,Èló,Lexical,single-word replacements
-M02,S01,Market,2,6,ghán,wọ́n,Phonological,w → gh
-M02,S02,Market,5,9,ghán,wọ́n,Phonological,w → gh
-M02,S03,Market,2,6,ghán,wọ́n,Phonological,w → gh
-M03,S01,Market,10,14,oghó,owó,Phonological,w → gh
-M03,S01,Market,5,9,dẹ́n,Dín,Phonological,-in → -ẹn
-M03,S01,Market,0,4,Bámi,—,Lexical,bámi + command
-M03,S02,Market,0,4,Dẹ́n,Dín,Phonological,-in → -ẹn
-M03,S02,Market,11,15,ghín,fún,Lexical,single-word replacements
-M03,S03,Market,0,4,Dẹ́n,Dín,Phonological,-in → -ẹn
-M03,S03,Market,11,15,ghín,fún,Lexical,single-word replacements
-M04,S02,Market,8,13,ráìsì,ìrẹsì,Loanword,English loanwords
-M04,S02,Market,0,2,Mè,Mo,Lexical,single-word replacements
-M04,S02,Market,5,7,rì,,Phonological,i → a
-M04,S03,Market,10,15,ráìsì,ìrẹsì,Loanword,English loanwords
-M04,S03,Market,7,9,rì,,Phonological,i → a
-M05,S01,Market,17,20,ghá,wà,Phonological,w → gh
-M05,S01,Market,0,5,Kẹ̀ẹ́,Níbo ni,Lexical,"""where"" = kẹ- word"
-M05,S02,Market,0,5,Kẹ̀ẹ́,Níbo ni,Lexical,"""where"" = kẹ- word"
-M05,S02,Market,11,13,wá,wà,Tonal,wà/wá-type L↔H swap
-M05,S03,Market,17,20,ghá,wà,Phonological,w → gh
-M05,S03,Market,0,5,Kẹ̀ẹ́,Níbo ni,Lexical,"""where"" = kẹ- word"
-M06,S01,Market,8,15,ẹgbẹ̀ún,ẹgbẹ̀rún,Phonological,r dropped between vowels
-M06,S03,Market,0,5,Dí mi,Màá,Lexical,words replacements
-M06,S03,Market,10,21,pò mẹ́ẹ̀gwá,ẹgbẹ̀rún méjì,Lexical,words replacements
-M07,S01,Market,20,24,ẹghó,owó,Phonological,w → gh
-M07,S01,Market,0,4,Bámi,—,Lexical,bámi + command
-M07,S01,Market,9,16,ùyó bọ̀,ìyókù,Phonological,initial i → u
-M07,S01,Market,13,16,bọ̀,kù,Lexical,single-word replacements
-M07,S02,Market,7,11,ọghó,owó,Phonological,w → gh
-M07,S02,Market,15,22,yòó bọ̀,ìyókù,Lexical,words replacements
-M07,S03,Market,4,8,eghó,owó,Phonological,w → gh
-M07,S03,Market,19,23,ghín,Fún,Phonological,f → gh (fún)
-M08,S01,Market,25,28,ghá,wà,Phonological,w → gh
-M08,S01,Market,0,5,Kẹ̀ẹ́,Níbo ni,Lexical,"""where"" = kẹ- word"
-M08,S01,Market,9,18,ubùdọ́kọ̀,ibùdókọ̀,Phonological,initial i → u
-M08,S02,Market,0,5,Kẹ̀ẹ́,Níbo ni,Lexical,"""where"" = kẹ- word"
-M08,S03,Market,14,17,ghá,wà,Phonological,w → gh
-M08,S03,Market,0,5,Kẹ̀ẹ́,Níbo ni,Lexical,"""where"" = kẹ- word"
-M09,S01,Market,3,5,re,lọ,Lexical,single-word replacements
-M09,S01,Market,0,2,Me,Mo,Lexical,single-word replacements
-M09,S02,Market,0,2,Me,Mo,Lexical,single-word replacements
-M09,S02,Market,3,5,re,lọ,Lexical,single-word replacements
-M09,S03,Market,0,2,Me,Mo,Lexical,single-word replacements
-M09,S03,Market,3,5,re,lọ,Lexical,single-word replacements
-M10,S01,Market,2,12,dẹ̀ sín sí,jìnnà láti,Lexical,words replacements
-M10,S02,Market,2,12,dẹ̀ sín sí,jìnnà láti,Lexical,words replacements
-M10,S03,Market,2,12,dẹ̀ sín sí,jìnnà láti,Lexical,words replacements
-M10,S03,Market,13,19,béèyìí,ibí yìí,Lexical,words replacements
-M11,S01,Market,0,2,Wó,o,Lexical,o (you) → wé/wo
-M11,S01,Market,20,24,tutù,tútù,Tonal,marked → unmarked (mid)
-M11,S01,Market,6,9,nẹ́,,Phonological,-in → -ẹn
-M12,S01,Market,8,13,rùtṣú,iṣu,Phonological,ṣ → tṣ
-M12,S01,Market,0,3,Mòó,Mo,Phonological,mo → mòó
-M13,S01,Market,4,9,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀
-M14,S01,Market,0,4,Bámi,—,Lexical,bámi + command
-M14,S01,Market,9,11,an,án,Phonological,marked → unmarked (mid)
-M14,S01,Market,5,8,wàn,Wọn,Phonological,ọ → a
-M15,S01,Market,0,3,Òlú,Mélòó,Lexical,single-word replacements
-M15,S01,Market,4,5,ò,o,Tonal,unmarked (mid) → marked H/L
-M16,S01,Market,0,4,Bámi,—,Lexical,bámi + command
-M16,S01,Market,8,13,sinọ́,,Phonological,u → ọ
-M17,S01,Market,18,22,ghún,fún,Phonological,f → gh (fún)
-M17,S01,Market,14,17,kán,,Phonological,u → ọ
-M18,S02,Market,0,4,Ẹghó,Owó,Phonological,w → gh
-M18,S02,Market,9,14,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀
-M19,S02,Market,7,15,tṣọ́ọ̀bù,ṣọ́ọ̀bù,Phonological,ṣ → tṣ
-M19,S02,Market,24,26,ti,ta,Phonological,i → a
-M20,S02,Market,0,7,Kẹ̀ẹ́bi,Níbo ni,Lexical,"""where"" = kẹ- word"
-M20,S02,Market,11,13,tì,ti,Tonal,unmarked (mid) → marked H/L
-M20,S02,Market,14,17,yáà,lè,Lexical,single-word replacements
-M21,S02,Market,0,6,Dáàbọ̀,Jọ̀ọ́,Lexical,single-word replacements
-M21,S02,Market,12,18,béèyìí,níbí,Lexical,single-word replacements
-M22,S02,Market,17,21,kọ́n,kún,Phonological,u → ọ
-M23,S02,Market,0,3,Òlú,Èló,Lexical,single-word replacements
-M23,S02,Market,14,18,mátò,ọkọ̀,Loanword,English loanwords
-M23,S02,Market,19,24,gbẹ̀ǹ,lọ,Lexical,single-word replacements
-M24,S02,Market,5,10,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀
-M24,S02,Market,11,16,è san,bàjẹ́,Lexical,words replacements
-M25,S03,Market,3,7,sáká,sí apá,Lexical,words replacements
-M26,S03,Market,22,24,bu,ibi,Phonological,initial i → u
-M26,S03,Market,25,29,tṣẹ́,iṣẹ́,Phonological,ṣ → tṣ
-M27,S03,Market,10,14,ghín,fún,Phonological,f → gh (fún)
-M28,S03,Market,0,3,Mòó,Mo,Phonological,mo → mòó
-M29,S03,Market,0,13,Ẹnẹ yèé tà un,Olùtajà,Lexical,words replacements
-M29,S03,Market,22,41,ẹnẹ yòó fé bọ rà un,oníbàárà,Lexical,words replacements
-M30,S03,Market,4,9,dèyìn,padà,Lexical,single-word replacements
+﻿sentence_id,speaker,domain,start,end,owo_word,std_word,type,pattern,fix
+E01,S00,Education,18,24,ọ̀ghọn,àwọn,Phonological,w → gh,
+E01,S00,Education,7,12,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀,nee-unified;
+E02,S00,Education,0,3,Mòó,Mo,Phonological,mo → mòó,
+E03,S00,Education,7,12,nẹ́ẹ̀,ń,Lexical,náà → nẹ́ẹ̀,
+E03,S00,Education,13,15,wa,bọ̀,Lexical,single-word replacements,
+E04,S00,Education,8,11,ọma,ọmọ,Phonological,ọ → a,
+E04,S00,Education,0,3,Mòó,Mo,Phonological,mo → mòó,
+E05,S00,Education,18,21,ọma,ọmọ,Phonological,ọ → a,
+E05,S00,Education,0,6,Ẹ̀ghẹn,Ẹ,Phonological,ẹ / ẹ̀yin (you pl.) → ẹ̀ghẹn,
+E05,S00,Education,33,39,Ẹ̀ghẹn,ẹ̀yin,Phonological,ẹ / ẹ̀yin (you pl.) → ẹ̀ghẹn,
+E06,S00,Education,0,6,Ọ̀ghọn,Àwọn,Phonological,w → gh,
+E06,S00,Education,7,10,ọma,ọmọ,Phonological,ọ → a,
+E06,S00,Education,19,24,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀,nee-unified;
+E06,S00,Education,25,31,tẹ́tín,tẹ́tí,Phonological,final letter → n,
+E06,S00,Education,32,37,salẹ̀,sílẹ̀,Phonological,i → a,
+E07,S00,Education,16,22,dọ̀tín,dọ̀tí,Phonological,final letter → n,
+E07,S00,Education,27,30,èkù,ìdọ̀tí,Lexical,single-word replacements,
+E07,S00,Education,31,33,yé,tó,Lexical,single-word replacements,
+E07,S00,Education,34,39,ńgórí,wà,Lexical,single-word replacements,
+E07,S00,Education,45,50,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀,nee-unified;
+E07,S00,Education,40,44,alẹ̀,ilẹ̀.,Phonological,i → a,
+E08,S00,Education,12,18,ọ̀ghọn,àwọn,Phonological,w → gh,
+E08,S00,Education,19,22,ọma,ọmọ,Phonological,ọ → a,
+E08,S00,Education,0,4,Tíṣà,Olùkọ́,Loanword,English loanwords,
+E08,S00,Education,5,8,kàn,kan,Tonal,unmarked (mid) → marked H/L,
+E08,S00,Education,33,37,ínọ́,nínú,Phonological,u → ọ,
+E08,S00,Education,46,51,nẹ́ẹ̀,yẹn,Lexical,single-word replacements,
+E09,S00,Education,11,18,erè yìí,Èyí ni,Lexical,words replacements,
+E10,S00,Education,7,12,ṣùkúù,ilé-ẹ̀kọ́,Loanword,English loanwords,
+E11,S00,Education,3,5,wé,o,Lexical,o (you) → wé/wo,
+E11,S00,Education,14,19,ṣùkúù,ilé-ẹ̀kọ́,Loanword,English loanwords,
+E11,S00,Education,11,13,yú,lọ,Lexical,single-word replacements,
+E12,S00,Education,0,6,Ọ̀ghọn,Wọ́n,Phonological,w → gh,
+E12,S00,Education,33,38,ṣùkúù,ilé-ẹ̀kọ́,Loanword,English loanwords,
+E12,S00,Education,15,18,jẹ́,jẹ,Tonal,unmarked (mid) → marked H/L,
+E12,S00,Education,30,32,rè,sí,Lexical,single-word replacements,
+E12,S00,Education,19,22,kúe,tí o,Lexical,single-word replacements,
+E13,S00,Education,16,22,ùdánwò,ìdánwò,Phonological,initial i → u,
+E13,S00,Education,3,5,wo,o,Lexical,o (you) → wé/wo,
+E14,S00,Education,24,30,ùdánwò,ìdánwò,Phonological,initial i → u,
+E14,S00,Education,0,3,Mòó,Mo,Phonological,mo → mòó,
+E14,S00,Education,4,7,gbà,gba,Tonal,unmarked (mid) → marked H/L,
+E14,S00,Education,19,23,ínọ́,nínú,Phonological,u → ọ,
+E15,S00,Education,8,12,ghún,fún,Phonological,f → gh (fún),
+E15,S00,Education,13,19,ùdánwò,ìdánwò,Phonological,initial i → u,
+E15,S00,Education,0,2,Mì,mi,Tonal,unmarked (mid) → marked H/L,
+E16,S00,Education,3,5,wo,o,Lexical,o (you) → wé/wo,
+E16,S00,Education,9,13,ṣuṣé,iṣẹ́,Phonological,initial i → u,
+E17,S00,Education,0,3,Kàá,Lọ,Lexical,single-word replacements,
+E17,S00,Education,4,9,ṣuṣẹ́,iṣẹ́,Phonological,initial i → u,
+E18,S00,Education,0,10,Àsáínmẹ́nt,àyànfún,Loanword,English loanwords,
+E19,S00,Education,15,18,ùwé,ìwé,Phonological,initial i → u,
+E19,S00,Education,0,3,Mòó,Mo,Phonological,mo → mòó,
+E19,S00,Education,10,14,gede,gbogbo,Lexical,single-word replacements,
+E19,S00,Education,7,9,kà,ka,Tonal,unmarked (mid) → marked H/L,
+E20,S00,Education,0,2,Wé,O,Lexical,o (you) → wé/wo,
+E20,S00,Education,3,4,è,ò,Lexical,single-word replacements,
+E21,S00,Education,20,24,ghún,fún,Phonological,f → gh (fún),
+E21,S00,Education,14,19,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀,nee-unified;
+E21,S00,Education,0,4,Kòró,Dìde,Lexical,single-word replacements,
+E21,S00,Education,5,8,dúe,kí o,Lexical,words replacements,
+E22,S00,Education,0,2,Wè,O,Lexical,o (you) → wé/wo,
+E22,S00,Education,11,15,lúkà,dáadáa,Lexical,single-word replacements,
+E23,S00,Education,10,14,gede,gbogbo,Lexical,single-word replacements,
+E23,S00,Education,0,3,Mìí,Mi ò,Lexical,words replacements,
+E23,S00,Education,15,18,ùwé,ìwé,Phonological,initial i → u,
+E24,S00,Education,0,3,Mòó,Mo,Phonological,mo → mòó,
+E24,S00,Education,7,9,kà,ka,Tonal,unmarked (mid) → marked H/L,
+E24,S00,Education,15,22,ẹyọ̀kàn,ọ̀kan,Tonal,unmarked (mid) → marked H/L,
+E25,S00,Education,8,11,ati,kún,Lexical,single-word replacements,
+E25,S00,Education,12,19,ẹyọ̀kàn,ọ̀kan,Tonal,unmarked (mid) → marked H/L,
+E25,S00,Education,0,7,Ẹyọ̀kàn,Ọ̀kan,Tonal,unmarked (mid) → marked H/L,
+E26,S00,Education,18,26,mẹ́ẹ̀rẹn,mẹ́rin,Phonological,-in → -ẹn,
+E27,S00,Education,3,6,mòó,mo,Phonological,mo → mòó,
+E28,S00,Education,0,4,Ǹgòó,O,Lexical,single-word replacements,
+E29,S00,Education,10,15,ṣùkúù,ilé-ẹ̀kọ́,Loanword,English loanwords,
+E29,S00,Education,0,2,Kú,Kí,Phonological,initial i → u,
+E30,S00,Education,0,6,Ọ̀ghọn,Àwọn,Phonological,w → gh,
+E30,S00,Education,7,10,ọma,ọmọ,Phonological,ọ → a,
+E30,S00,Education,11,16,ṣùkúù,ilé-ẹ̀kọ́,Loanword,English loanwords,
+E31,S00,Education,0,8,Ọkọ̀nrẹn,Ọkùnrin,Phonological,-in → -ẹn,
+E31,S00,Education,0,8,Ọkọ̀nrẹn,Ọkùnrin,Phonological,u → ọ,
+E31,S00,Education,9,14,nẹ́ẹ̀,yẹn,Lexical,single-word replacements,
+E32,S00,Education,20,26,ọ̀ghọn,àwọn,Phonological,w → gh,
+E32,S00,Education,27,32,ọmadé,ọmọdé,Phonological,ọ → a,
+E32,S00,Education,33,40,ojojúmá,lójojúmọ́.,Phonological,ọ → a,
+E33,S00,Education,0,5,Èghẹn,Ẹ,Phonological,ẹ / ẹ̀yin (you pl.) → ẹ̀ghẹn,
+E33,S00,Education,28,30,ti,tí,Tonal,marked → unmarked (mid),
+E33,S00,Education,20,30,kì mbẹ́ ti,nígbà tí mo bá ń,Lexical,words replacements,
+E33,S00,Education,35,39,ghẹn,yín,Phonological,ẹ / ẹ̀yin (you pl.) → ẹ̀ghẹn,
+E34,S00,Education,4,11,ẹ̀ghẹ́n,ẹ̀yin,Phonological,ẹ / ẹ̀yin (you pl.) → ẹ̀ghẹn,
+E34,S00,Education,12,20,gbọ́ kọ̀,ò kí ń gbọ́rọn,Lexical,words replacements,
+E34,S00,Education,21,24,bẹ́,nígbà tí wọ́n bá,Lexical,words replacements,
+E34,S00,Education,29,33,ghẹn,yín,Phonological,ẹ / ẹ̀yin (you pl.) → ẹ̀ghẹn,
+E35,S00,Education,13,18,ṣùkúù,ilé-ẹ̀kọ́,Loanword,English loanwords,
+E36,S00,Education,7,9,ti,Tí,Tonal,marked → unmarked (mid),
+E36,S00,Education,0,2,Kì,Tí,Lexical,single-word replacements,
+E36,S00,Education,23,26,fọ̀,sọ,Lexical,single-word replacements,
+E36,S00,Education,27,29,fi,pé,Lexical,single-word replacements,
+E36,S00,Education,35,39,ghún,wà,Phonological,w → gh,
+E36,S00,Education,44,48,yèmi,Màmá,Lexical,single-word replacements,
+E36,S00,Education,32,34,Mì,Mo,Lexical,single-word replacements,
+E36,S00,Education,40,42,bé,níbí,Lexical,single-word replacements,
+E37,S00,Education,0,3,Mòó,Mo,Phonological,mo → mòó,
+E37,S00,Education,20,29,bẹ́ẹ̀nyìí,báyìí,Lexical,single-word replacements,
+E39,S00,Education,11,13,rà,ra,Tonal,unmarked (mid) → marked H/L,
+E39,S00,Education,8,10,tì,Tí,Tonal,wà/wá-type L↔H swap,
+E39,S00,Education,0,3,Kúe,Tí,Lexical,single-word replacements,
+E39,S00,Education,20,29,kòró dúró,dìde,Lexical,words replacements,
+E40,S00,Education,0,3,Mòó,Mo,Phonological,mo → mòó,
+E40,S00,Education,24,32,mẹ́ẹ̀rún,márùn-ún,Phonological,áà → ẹ́ẹ̀,
+E40,S00,Education,9,14,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀,nee-unified;
+E41,S00,Education,0,3,Mòó,Mo,Phonological,mo → mòó,
+E42,S00,Education,21,34,núlí-ùwé gíga,yunifásítì.,Lexical,single-word replacements,
+E42,S00,Education,12,15,Ùma,Ìmọ̀,Phonological,initial i → u,
+E43,S00,Education,0,13,Ulí-èkọ́ gíga,Yunifásítì,Lexical,single-word replacements,
+E43,S00,Education,26,30,lála,ńlá,Lexical,single-word replacements,
+E44,S00,Education,0,3,Ùmà,Ìmọ̀,Phonological,initial i → u,
+E45,S00,Education,6,8,ùn,ni,Lexical,words replacements,
+E46,S00,Education,19,24,ṣùkúù,ilé-ìwé,Loanword,English loanwords,
+E46,S00,Education,28,30,rè,lọ sí,Lexical,words replacements,
+E46,S00,Education,0,2,Mì,Mo,Lexical,single-word replacements,
+E47,S00,Education,0,6,Ọ̀ghọn,Àwọn,Phonological,w → gh,
+E47,S00,Education,7,10,ọma,ọmọ,Phonological,ọ → a,
+E47,S00,Education,11,16,ṣùkúù,ilé-ẹ̀kọ́,Loanword,English loanwords,
+E47,S00,Education,23,26,wọ̀,wọ,Tonal,unmarked (mid) → marked H/L,
+E47,S00,Education,37,40,yòó,tó,Lexical,single-word replacements,
+E47,S00,Education,41,43,má,mọ́,Phonological,ọ → a,
+E48,S00,Education,21,25,yéye,púpọ̀,Lexical,single-word replacements,
+E49,S00,Education,8,11,ọma,ọmọ,Phonological,ọ → a,
+E49,S00,Education,0,3,Mòó,Mo,Phonological,mo → mòó,
+E49,S00,Education,27,41,ulí-ẹ̀kọ́ gíga,yunifásítì,Lexical,single-word replacements,
+E49,S00,Education,42,47,nẹ́ẹ̀,yẹn,Lexical,single-word replacements,
+E50,S00,Education,0,3,Mòó,Mo,Phonological,mo → mòó,
+E50,S00,Education,40,45,kínẹ́,kíní,Phonological,-in → -ẹn,
+F01,S01,Family,9,15,ùọ̀lẹ́,ìrọ̀lẹ́,Phonological,r dropped between vowels,
+F01,S01,Family,0,5,Èghẹn,Ẹ,Phonological,ẹ / ẹ̀yin (you pl.) → ẹ̀ghẹn,
+F01,S01,Family,27,32,arálé,ẹbí,Lexical,single-word replacements,
+F01,S02,Family,9,15,ùọ̀lẹ́,ìrọ̀lẹ́,Phonological,r dropped between vowels,
+F01,S02,Family,0,5,Èghẹn,Ẹ,Phonological,ẹ / ẹ̀yin (you pl.) → ẹ̀ghẹn,
+F01,S02,Family,27,32,arálé,ẹbí,Lexical,single-word replacements,
+F01,S03,Family,0,6,Ẹ̀ghẹn,Ẹ,Phonological,ẹ / ẹ̀yin (you pl.) → ẹ̀ghẹn,
+F01,S03,Family,25,30,arálé,ẹbí,Lexical,single-word replacements,
+F02,S01,Family,7,11,ghún,wà,Phonological,w → gh,
+F02,S01,Family,0,3,Ibà,Bàbá,Lexical,single-word replacements,
+F02,S02,Family,7,11,ghún,wà,Phonological,w → gh,
+F02,S02,Family,0,3,Ibà,Bàbá,Lexical,single-word replacements,
+F02,S03,Family,7,11,ghún,wà,Phonological,w → gh,
+F02,S03,Family,0,3,Ibà,Bàbá,Lexical,single-word replacements,
+F03,S01,Family,4,6,mí,mi,Tonal,unmarked (mid) → marked H/L,
+F03,S01,Family,7,12,jù-ùn,se,Lexical,single-word replacements,
+F03,S02,Family,5,12,tṣun-ùn,se,Lexical,single-word replacements,
+F03,S03,Family,6,13,tṣùn-ùn,se,Lexical,single-word replacements,
+F03,S03,Family,0,5,Imàmí,Ìyá mi,Lexical,single-word replacements,
+F04,S01,Family,15,21,tṣetán,ṣetán,Phonological,ṣ → tṣ,
+F04,S02,Family,0,6,Òùnjẹ́,Oúnjẹ,Tonal,unmarked (mid) → marked H/L,
+F04,S02,Family,10,12,kú,ṣetán,Lexical,single-word replacements,
+F04,S03,Family,10,16,tṣetán,ṣetán,Phonological,ṣ → tṣ,
+F04,S03,Family,0,6,Òùnjẹ́,Oúnjẹ,Tonal,unmarked (mid) → marked H/L,
+F05,S01,Family,0,2,Yá,Wá,Lexical,single-word replacements,
+F05,S02,Family,5,7,yá,Wá,Lexical,single-word replacements,
+F05,S03,Family,0,2,Yá,Wá,Lexical,single-word replacements,
+F06,S01,Family,0,3,Mòó,Mo,Phonological,mo → mòó,
+F06,S01,Family,4,7,nẹ́,ní,Phonological,-in → -ẹn,
+F06,S01,Family,8,21,ẹ̀gbánkọ̀nrẹn,arákùnrin,Phonological,ọ → a,
+F06,S01,Family,8,21,ẹ̀gbánkọ̀nrẹn,arákùnrin,Phonological,-in → -ẹn,
+F06,S01,Family,36,43,óbìnrẹn,arábìnrin,Phonological,-in → -ẹn,
+F06,S02,Family,0,3,Mòó,Mo,Phonological,mo → mòó,
+F06,S02,Family,31,38,obìnrẹn,arábìnrin,Phonological,-in → -ẹn,
+F06,S02,Family,8,21,ẹ̀gbánkọ̀nrẹn,arákùnrin,Phonological,-in → -ẹn,
+F06,S02,Family,8,21,ẹ̀gbánkọ̀nrẹn,ẹ̀gbọ́nkùnrin,Phonological,ọ → a,
+F06,S03,Family,0,3,Mòó,Mo,Phonological,mo → mòó,
+F06,S03,Family,4,7,nẹ́,ní,Phonological,-in → -ẹn,
+F06,S03,Family,8,21,ẹ̀gbánkọ̀nrẹn,arákùnrin,Phonological,-in → -ẹn,
+F06,S03,Family,28,35,obìnrẹn,arábìnrin,Phonological,-in → -ẹn,std_word:suggested;
+F06,S03,Family,8,21,ẹ̀gbánkọ̀nrẹn,ẹ̀gbọ́nkùnrin,Phonological,ọ → a,
+F07,S01,Family,17,20,ghà,wà,Phonological,w → gh,
+F07,S01,Family,0,5,Kẹ̀ẹ́,Níbo ni,Lexical,"""where"" = kẹ- word",
+F07,S01,Family,13,16,rẹ̀,rẹ,Tonal,unmarked (mid) → marked H/L,
+F07,S01,Family,6,8,bu,bo,Lexical,single-word replacements,
+F07,S02,Family,17,20,ghá,wà,Phonological,w → gh,
+F07,S02,Family,9,12,ulí,ilé,Phonological,initial i → u,
+F07,S02,Family,0,5,Kẹ̀ẹ́,Níbo ni,Lexical,"""where"" = kẹ- word",
+F07,S03,Family,16,19,ghá,wà,Phonological,w → gh,
+F07,S03,Family,0,5,Kẹ̀ẹ́,Níbo ni,Lexical,"""where"" = kẹ- word",
+F08,S01,Family,5,8,tṣí,Ṣí,Phonological,ṣ → tṣ,
+F08,S01,Family,0,4,Bámi,—,Lexical,bámi + command,
+F08,S01,Family,9,16,ìlẹ̀kùn,ilẹ̀kùn,Tonal,unmarked (mid) → marked H/L,
+F08,S02,Family,0,3,Tṣí,Ṣí,Phonological,ṣ → tṣ,
+F08,S03,Family,0,3,Tṣí,Ṣí,Phonological,ṣ → tṣ,
+F09,S01,Family,0,6,Ọ̀ghọn,Àwọn,Phonological,w → gh,
+F09,S01,Family,17,22,tṣeré,ṣeré,Phonological,ṣ → tṣ,
+F09,S01,Family,7,12,ọmadé,ọmọdé,Phonological,ọ → a,
+F09,S02,Family,0,6,Ọ̀ghọn,Àwọn,Phonological,w → gh,
+F09,S02,Family,7,12,ọmadé,ọmọdé,Phonological,ọ → a,
+F09,S02,Family,19,24,tṣuré,ṣeré,Phonological,ṣ → tṣ,
+F09,S03,Family,0,6,Ọ̀ghọn,Àwọn,Phonological,w → gh,
+F09,S03,Family,13,18,tṣeré,ṣeré,Phonological,ṣ → tṣ,
+F09,S03,Family,7,12,ọmadé,ọmọdé,Phonological,ọ → a,
+F10,S01,Family,3,6,tṣé,ṣeun,Phonological,ṣ → tṣ,
+F10,S01,Family,0,2,Wo,Ẹ,Lexical,single-word replacements,
+F10,S02,Family,3,6,tṣé,ṣeun,Phonological,ṣ → tṣ,
+F10,S03,Family,3,6,tṣé,ṣeun,Phonological,ṣ → tṣ,
+F10,S03,Family,0,2,Wo,Ẹ,Lexical,single-word replacements,
+F11,S01,Family,7,11,agbà,àgbà,Tonal,marked → unmarked (mid),
+F11,S01,Family,20,32,aghéré íyoko,abúlé,Lexical,words replacements,
+F11,S01,Family,16,19,nọ́,ní,Phonological,u → ọ,
+F12,S01,Family,15,20,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀,nee-unified;
+F12,S01,Family,0,4,Bámi,—,Lexical,bámi + command,
+F13,S01,Family,5,7,rù,lọ,Lexical,single-word replacements,
+F14,S01,Family,19,23,inọ́,inú,Phonological,u → ọ,
+F14,S01,Family,0,3,Pan,Pọn,Phonological,ọ → a,
+F15,S01,Family,6,12,ẹ̀gbán,ẹ̀gbọ́n,Phonological,ọ → a,
+F15,S01,Family,13,21,ọkọ̀nrẹn,ọkùnrin,Phonological,-in → -ẹn,
+F16,S01,Family,9,14,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀,nee-unified;
+F16,S01,Family,4,8,ékeé,ọwọ́,Lexical,single-word replacements,
+F16,S01,Family,0,3,Ọma,Ọmọ,Phonological,single-word replacements,
+F17,S01,Family,5,9,jẹún,jẹun,Tonal,unmarked (mid) → marked H/L,
+F17,S01,Family,10,15,pọ̀ọ́,papọ̀,Lexical,single-word replacements,
+F19,S02,Family,0,3,Èjí,Òjò,Lexical,single-word replacements,
+F20,S02,Family,0,5,Àbúro,Àbúrò,Tonal,marked → unmarked (mid),
+F20,S02,Family,17,19,wa,wá,Tonal,marked → unmarked (mid),
+F20,S02,Family,11,13,yá,wá,Lexical,single-word replacements,
+F21,S02,Family,0,3,Mìí,Mò,Lexical,single-word replacements,
+F22,S02,Family,18,21,ghá,wà,Phonological,w → gh,
+F22,S02,Family,0,5,Kẹ̀ẹ́,Níbo ni,Lexical,"""where"" = kẹ- word",
+F23,S02,Family,0,4,Bámi,—,Lexical,bámi + command,
+F25,S03,Family,0,3,Ulí,Ilé,Phonological,initial i → u,
+F26,S03,Family,16,25,sìnghọnọ̀,sinmi,Lexical,single-word replacements,
+F26,S03,Family,9,12,mòó,mo,Phonological,single-word replacements,
+F27,S03,Family,15,19,ghín,fún,Phonological,f → gh (fún),
+F27,S03,Family,3,8,agomi,ife omi,Lexical,words replacements,
+F27,S03,Family,0,2,Ja,Gbé,Lexical,single-word replacements,
+F28,S03,Family,0,6,Ẹ̀gbán,Ẹ̀gbọ́n,Phonological,ọ → a,
+F28,S03,Family,10,18,obìnrẹ́n,obìnrin,Phonological,-in → -ẹn,
+F29,S03,Family,8,12,ghún,wà,Phonological,w → gh,
+F29,S03,Family,0,4,Gede,Gbogbo,Lexical,single-word replacements,
+F30,S03,Family,15,18,sun,sùn,Tonal,marked → unmarked (mid),
+H01,S01,Health,0,3,Arà,Ara,Tonal,unmarked (mid) → marked H/L,
+H01,S01,Health,4,6,mí,mi,Tonal,unmarked (mid) → marked H/L,
+H01,S01,Health,7,8,ì,ò,Lexical,single-word replacements,
+H01,S02,Health,0,2,Mí,mi,Tonal,unmarked (mid) → marked H/L,
+H01,S02,Health,3,4,ì,ò,Lexical,single-word replacements,
+H01,S02,Health,5,7,ni,yá,Lexical,single-word replacements,
+H01,S03,Health,0,3,Arà,Ara,Tonal,unmarked (mid) → marked H/L,
+H01,S03,Health,4,6,mí,mi,Tonal,unmarked (mid) → marked H/L,
+H01,S03,Health,7,8,ì,ò,Lexical,single-word replacements,
+H02,S01,Health,0,3,Kẹ́,Níbo ni,Lexical,"""where"" = kẹ- word",
+H02,S01,Health,10,12,já,dùn,Lexical,single-word replacements,
+H02,S02,Health,0,3,Kẹ́,Níbo ni,Lexical,"""where"" = kẹ- word",
+H02,S02,Health,7,9,já,dùn,Lexical,single-word replacements,
+H02,S03,Health,0,3,Kẹ̀,Níbo ni,Lexical,"""where"" = kẹ- word",
+H02,S03,Health,7,9,já,dùn,Lexical,single-word replacements,
+H03,S01,Health,4,6,là,fọ́,Lexical,single-word replacements,
+H03,S02,Health,4,6,là,fọ́,Lexical,single-word replacements,
+H03,S03,Health,4,6,mí,mi,Tonal,unmarked (mid) → marked H/L,
+H03,S03,Health,7,9,là,fọ́,Lexical,single-word replacements,
+H04,S01,Health,0,3,Mòó,Mo,Phonological,mo → mòó,
+H04,S02,Health,0,3,Mòó,Mo,Phonological,mo → mòó,
+H04,S03,Health,0,3,Mòó,Mo,Phonological,mo → mòó,
+H05,S01,Health,0,4,Gbẹ̀,Lọ,Lexical,single-word replacements,
+H05,S01,Health,6,9,úlí,ilé,Phonological,initial i → u,
+H05,S02,Health,0,4,Gbẹ̀,Lọ,Lexical,single-word replacements,
+H05,S02,Health,6,9,úlí,ilé,Phonological,initial i → u,
+H05,S03,Health,3,7,rùlí,Lọ sí ilé,Lexical,words replacements,
+H06,S01,Health,13,19,kòméjì,lẹ́ẹ̀mejì,Lexical,single-word replacements,
+H06,S01,Health,20,25,ojúmá,lójúmọ́,Phonological,ọ → a,
+H06,S02,Health,13,19,kòméjì,lẹ́ẹ̀mejì,Lexical,single-word replacements,
+H06,S02,Health,20,25,ojúmá,lójúmọ́,Phonological,words replacements,
+H06,S03,Health,13,19,kòméjì,lẹ́ẹ̀mejì,Lexical,single-word replacements,
+H06,S03,Health,25,32,ojojúmá,lójúmọ́,Phonological,ọ → a,
+H07,S01,Health,13,17,yéye,púpọ̀,Lexical,single-word replacements,
+H07,S01,Health,0,2,Mọ,Mu,Phonological,u → ọ,
+H07,S02,Health,0,2,Mọ,Mu,Phonological,u → ọ,
+H07,S02,Health,13,17,yéye,púpọ̀,Lexical,single-word replacements,
+H07,S03,Health,0,2,Mọ,Mu,Phonological,u → ọ,
+H07,S03,Health,13,17,yéye,púpọ̀,Lexical,single-word replacements,
+H08,S01,Health,8,13,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀,nee-unified;
+H08,S02,Health,7,12,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀,nee-unified;
+H08,S03,Health,11,13,wa,bọ̀,Lexical,single-word replacements,
+H09,S01,Health,0,4,Ukùn,Ikùn,Phonological,initial i → u,
+H09,S01,Health,12,14,jà,dùn,Lexical,single-word replacements,
+H09,S02,Health,4,6,jà,dùn,Lexical,single-word replacements,
+H09,S02,Health,7,9,mi,mí,Tonal,unmarked (mid) → marked H/L,
+H09,S03,Health,8,10,jà,dùn,Lexical,single-word replacements,
+H09,S03,Health,11,13,mi,mí.,Tonal,unmarked (mid) → marked H/L,
+H10,S01,Health,0,3,Arà,Ara,Tonal,unmarked (mid) → marked H/L,
+H10,S01,Health,4,6,mó,mi,Lexical,single-word replacements,
+H10,S01,Health,13,21,bẹ́ẹ̀yìí,báyìí,Lexical,single-word replacements,
+H10,S02,Health,7,9,tí,ti,Tonal,unmarked (mid) → marked H/L,
+H10,S02,Health,13,16,ẹ̀ń,báyìí,Lexical,single-word replacements,
+H10,S03,Health,0,3,Arà,Ara,Tonal,unmarked (mid) → marked H/L,
+H10,S03,Health,7,9,tí,ti,Tonal,unmarked (mid) → marked H/L,
+H11,S01,Health,0,5,Wẹ́ẹ̀,o,Lexical,o (you) → wé/wo,
+H12,S01,Health,0,2,Mí,Mi,Tonal,unmarked (mid) → marked H/L,
+H12,S01,Health,12,20,kálẹ́lẹ́,lálẹ́,Lexical,single-word replacements,
+H12,S01,Health,5,7,ya,lè,Lexical,single-word replacements,
+H13,S01,Health,7,14,tṣàìsàn,ṣàìsàn,Phonological,ṣ → tṣ,
+H13,S01,Health,0,3,Ọmà,Ọmọ,Phonological,ọ → a,
+H13,S01,Health,4,6,mí,mi,Tonal,unmarked (mid) → marked H/L,
+H14,S01,Health,9,14,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀,nee-unified;
+H15,S01,Health,5,10,ọghọ́,ọwọ́,Phonological,w → gh,
+H15,S01,Health,0,4,Tṣàn,Fọ,Lexical,single-word replacements,
+H15,S01,Health,14,17,dúe,kí o,Lexical,words replacements,
+H16,S01,Health,0,4,Ukọ́,ikọ́,Phonological,initial i → u,
+H16,S01,Health,5,9,ghún,ní,Lexical,single-word replacements,
+H17,S01,Health,3,7,bẹ̀ù,bẹ̀rù,Phonological,r dropped between vowels,
+H18,S02,Health,21,27,bẹ̀rẹ́,bẹ̀rẹ̀,Tonal,wà/wá-type L↔H swap,
+H19,S02,Health,11,14,tṣí,ṣí,Phonological,ṣ → tṣ,
+H19,S02,Health,0,10,Ulí-ùwòsan,Ilé-ìwòsàn,Phonological,initial i → u,
+H20,S02,Health,0,3,Mòó,Mo,Phonological,mo → mòó,
+H22,S02,Health,10,16,àghọ̀n,àwọ̀n,Phonological,w → gh,
+H22,S02,Health,17,22,ẹ̀fan,ẹ̀fọn,Phonological,ọ → a,
+H23,S02,Health,7,10,yòó,tó,Lexical,single-word replacements,
+H23,S02,Health,11,14,san,dára,Lexical,single-word replacements,
+H23,S02,Health,16,19,dúe,kí o,Lexical,words replacements,
+H23,S02,Health,23,29,ghọnọ̀,sinmi,Lexical,single-word replacements,
+H24,S02,Health,0,3,Ọsè,Ẹsẹ̀,Lexical,single-word replacements,
+H25,S03,Health,0,5,Kẹ̀ẹ́,Níbo ni,Lexical,"""where"" = kẹ- word",
+H26,S03,Health,10,15,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀,nee-unified;
+H26,S03,Health,0,3,Òlú,Èló,Lexical,single-word replacements,
+H27,S03,Health,0,3,Mòó,Mo,Phonological,mo → mòó,
+H27,S03,Health,12,17,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀,nee-unified;
+H27,S03,Health,18,23,òwúọ̀,òwúrọ̀,Phonological,r dropped between vowels,
+H28,S03,Health,0,6,Dáàbọ̀,Jọ̀ọ́,Lexical,single-word replacements,
+H29,S03,Health,0,3,Ọma,Ọmọ,Phonological,ọ → a,
+H29,S03,Health,4,9,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀,nee-unified;
+H29,S03,Health,10,16,sọnkún,sunkún,Phonological,u → ọ,
+H30,S03,Health,0,5,Dèyìn,Padà,Lexical,single-word replacements,
+H30,S03,Health,21,27,ọ̀sẹ̀n,ọ̀sẹ̀,Phonological,final letter → n,
+H30,S03,Health,6,10,ghún,sí,Lexical,single-word replacements,
+H30,S03,Health,28,30,yé,tó,Lexical,single-word replacements,pattern:suggested;
+H30,S03,Health,31,33,wà,bọ̀,Lexical,single-word replacements,
+M01,S01,Market,0,3,Ùló,Èló,Lexical,single-word replacements,
+M01,S01,Market,4,6,sí,ni,Lexical,single-word replacements,
+M01,S01,Market,7,11,yùré,èyí,Lexical,single-word replacements,
+M01,S02,Market,0,3,Òlú,Èló,Lexical,single-word replacements,
+M01,S03,Market,0,3,Òlú,Èló,Lexical,single-word replacements,
+M02,S01,Market,2,6,ghán,wọ́n,Phonological,w → gh,
+M02,S02,Market,5,9,ghán,wọ́n,Phonological,w → gh,
+M02,S03,Market,2,6,ghán,wọ́n,Phonological,w → gh,
+M03,S01,Market,10,14,oghó,owó,Phonological,w → gh,
+M03,S01,Market,5,9,dẹ́n,Dín,Phonological,-in → -ẹn,
+M03,S01,Market,0,4,Bámi,—,Lexical,bámi + command,
+M03,S02,Market,0,4,Dẹ́n,Dín,Phonological,-in → -ẹn,
+M03,S02,Market,11,15,ghín,fún,Lexical,single-word replacements,
+M03,S03,Market,0,4,Dẹ́n,Dín,Phonological,-in → -ẹn,
+M03,S03,Market,11,15,ghín,fún,Lexical,single-word replacements,
+M04,S02,Market,8,13,ráìsì,ìrẹsì,Loanword,English loanwords,
+M04,S02,Market,0,2,Mè,Mo,Lexical,single-word replacements,
+M04,S02,Market,5,7,rì,ra,Phonological,i → a,
+M04,S03,Market,10,15,ráìsì,ìrẹsì,Loanword,English loanwords,
+M04,S03,Market,7,9,rì,ra,Phonological,i → a,
+M05,S01,Market,17,20,ghá,wà,Phonological,w → gh,
+M05,S01,Market,0,5,Kẹ̀ẹ́,Níbo ni,Lexical,"""where"" = kẹ- word",
+M05,S02,Market,0,5,Kẹ̀ẹ́,Níbo ni,Lexical,"""where"" = kẹ- word",
+M05,S02,Market,11,13,wá,wà,Tonal,wà/wá-type L↔H swap,
+M05,S03,Market,17,20,ghá,wà,Phonological,w → gh,
+M05,S03,Market,0,5,Kẹ̀ẹ́,Níbo ni,Lexical,"""where"" = kẹ- word",
+M06,S01,Market,8,15,ẹgbẹ̀ún,ẹgbẹ̀rún,Phonological,r dropped between vowels,
+M06,S03,Market,0,5,Dí mi,Màá,Lexical,words replacements,
+M06,S03,Market,10,21,pò mẹ́ẹ̀gwá,ẹgbẹ̀rún méjì,Lexical,words replacements,
+M07,S01,Market,20,24,ẹghó,owó,Phonological,w → gh,
+M07,S01,Market,0,4,Bámi,—,Lexical,bámi + command,
+M07,S01,Market,9,16,ùyó bọ̀,ìyókù,Phonological,initial i → u,
+M07,S01,Market,13,16,bọ̀,kù,Lexical,single-word replacements,
+M07,S02,Market,7,11,ọghó,owó,Phonological,w → gh,
+M07,S02,Market,15,22,yòó bọ̀,ìyókù,Lexical,words replacements,
+M07,S03,Market,4,8,eghó,owó,Phonological,w → gh,
+M07,S03,Market,19,23,ghín,Fún,Phonological,f → gh (fún),
+M08,S01,Market,25,28,ghá,wà,Phonological,w → gh,
+M08,S01,Market,0,5,Kẹ̀ẹ́,Níbo ni,Lexical,"""where"" = kẹ- word",
+M08,S01,Market,9,18,ubùdọ́kọ̀,ibùdókọ̀,Phonological,initial i → u,
+M08,S02,Market,0,5,Kẹ̀ẹ́,Níbo ni,Lexical,"""where"" = kẹ- word",
+M08,S03,Market,14,17,ghá,wà,Phonological,w → gh,
+M08,S03,Market,0,5,Kẹ̀ẹ́,Níbo ni,Lexical,"""where"" = kẹ- word",
+M09,S01,Market,3,5,re,lọ,Lexical,single-word replacements,
+M09,S01,Market,0,2,Me,Mo,Lexical,single-word replacements,
+M09,S02,Market,0,2,Me,Mo,Lexical,single-word replacements,
+M09,S02,Market,3,5,re,lọ,Lexical,single-word replacements,
+M09,S03,Market,0,2,Me,Mo,Lexical,single-word replacements,
+M09,S03,Market,3,5,re,lọ,Lexical,single-word replacements,
+M10,S01,Market,2,12,dẹ̀ sín sí,jìnnà láti,Lexical,words replacements,
+M10,S02,Market,2,12,dẹ̀ sín sí,jìnnà láti,Lexical,words replacements,
+M10,S03,Market,2,12,dẹ̀ sín sí,jìnnà láti,Lexical,words replacements,
+M10,S03,Market,13,19,béèyìí,ibí yìí,Lexical,words replacements,
+M11,S01,Market,0,2,Wó,o,Lexical,o (you) → wé/wo,
+M11,S01,Market,20,24,tutù,tútù,Tonal,marked → unmarked (mid),
+M11,S01,Market,6,9,nẹ́,ní,Phonological,-in → -ẹn,
+M12,S01,Market,8,13,rùtṣú,iṣu,Phonological,ṣ → tṣ,
+M12,S01,Market,0,3,Mòó,Mo,Phonological,mo → mòó,
+M13,S01,Market,4,9,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀,nee-unified;
+M14,S01,Market,0,4,Bámi,—,Lexical,bámi + command,
+M14,S01,Market,9,11,an,án,Phonological,marked → unmarked (mid),
+M14,S01,Market,5,8,wàn,Wọn,Phonological,ọ → a,
+M15,S01,Market,0,3,Òlú,Mélòó,Lexical,single-word replacements,
+M15,S01,Market,4,5,ò,o,Tonal,unmarked (mid) → marked H/L,
+M16,S01,Market,0,4,Bámi,—,Lexical,bámi + command,
+M16,S01,Market,8,13,sinọ́,sínú,Phonological,u → ọ,
+M17,S01,Market,18,22,ghún,fún,Phonological,f → gh (fún),
+M17,S01,Market,14,17,kán,kún,Phonological,u → ọ,
+M18,S02,Market,0,4,Ẹghó,Owó,Phonological,w → gh,
+M18,S02,Market,9,14,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀,nee-unified;
+M19,S02,Market,7,15,tṣọ́ọ̀bù,ṣọ́ọ̀bù,Phonological,ṣ → tṣ,
+M19,S02,Market,24,26,ti,ta,Phonological,i → a,
+M20,S02,Market,0,7,Kẹ̀ẹ́bi,Níbo ni,Lexical,"""where"" = kẹ- word",
+M20,S02,Market,11,13,tì,ti,Tonal,unmarked (mid) → marked H/L,
+M20,S02,Market,14,17,yáà,lè,Lexical,single-word replacements,
+M21,S02,Market,0,6,Dáàbọ̀,Jọ̀ọ́,Lexical,single-word replacements,
+M21,S02,Market,12,18,béèyìí,níbí,Lexical,single-word replacements,
+M22,S02,Market,17,21,kọ́n,kún,Phonological,u → ọ,
+M23,S02,Market,0,3,Òlú,Èló,Lexical,single-word replacements,
+M23,S02,Market,14,18,mátò,ọkọ̀,Loanword,English loanwords,
+M23,S02,Market,19,24,gbẹ̀ǹ,lọ,Lexical,single-word replacements,
+M24,S02,Market,5,10,nẹ́ẹ̀,náà,Lexical,náà → nẹ́ẹ̀,nee-unified;
+M24,S02,Market,11,16,è san,bàjẹ́,Lexical,words replacements,
+M25,S03,Market,3,7,sáká,sí apá,Lexical,words replacements,
+M26,S03,Market,22,24,bu,ibi,Phonological,initial i → u,
+M26,S03,Market,25,29,tṣẹ́,iṣẹ́,Phonological,ṣ → tṣ,
+M27,S03,Market,10,14,ghín,fún,Phonological,f → gh (fún),
+M28,S03,Market,0,3,Mòó,Mo,Phonological,mo → mòó,
+M29,S03,Market,0,13,Ẹnẹ yèé tà un,Olùtajà,Lexical,words replacements,
+M29,S03,Market,22,41,ẹnẹ yòó fé bọ rà un,oníbàárà,Lexical,words replacements,
+M30,S03,Market,4,9,dèyìn,padà,Lexical,single-word replacements,
