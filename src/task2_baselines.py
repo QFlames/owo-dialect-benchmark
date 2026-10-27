@@ -17,9 +17,25 @@ low = lambda w: w.lower()
 
 def lookup_table(ann, exclude_id):
     t = collections.defaultdict(collections.Counter)
+
     for r in ann[ann.sentence_id != exclude_id].itertuples():
-        if isinstance(r.std_word, str):
-            t[low(r.std_word)][r.owo_word] += 1
+        if not isinstance(r.std_word, str):
+            continue
+        if not isinstance(r.owo_word, str):
+            continue
+
+        sw = low(r.std_word.strip())
+        ow = r.owo_word.strip()
+
+        if not sw or not ow or sw == "—" or ow == "—":
+            continue
+
+        # Only single-word mappings.
+        if len(sw.split()) != 1 or len(ow.split()) != 1:
+            continue
+
+        t[sw][ow] += 1
+
     return {k: v.most_common(1)[0][0] for k, v in t.items()}
 
 def predict_lookup(std, table):
