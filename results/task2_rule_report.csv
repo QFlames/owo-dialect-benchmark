@@ -1,0 +1,8 @@
+rule,fired,improved,worsened,same,improved share
+-in -> -ẹn,14,14,0,0,1.0
+mo → mòó,28,19,9,0,0.68
+initial ì → ù,13,8,2,3,0.62
+náà → nẹ́ẹ̀,13,13,0,0,1.0
+initial ṣ → tṣ,16,12,4,0,0.75
+ẹ → ẹ̀ghẹn,5,3,2,0,0.6
+fún → ghún,3,2,1,0,0.67
